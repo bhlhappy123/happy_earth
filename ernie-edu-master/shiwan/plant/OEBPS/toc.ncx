@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:8eae6154-044d-4eda-8512-7b7528b4da28" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>十万个为什么（第六版）精装套装-植物</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>扉页</text>
+      </navLabel>
+      <content src="Text/feiye.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>版权信息</text>
+      </navLabel>
+      <content src="Text/bq.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>序 言</text>
+      </navLabel>
+      <content src="Text/Section0002_0001.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="Text/TOC.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>导言</text>
+      </navLabel>
+      <content src="Text/Section0002_0002.xhtml" />
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>没有植物，人类还能生存吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0002.xhtml#sigil_toc_id_1" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>植物进化与分类</text>
+      </navLabel>
+      <content src="Text/Section0002_0003.xhtml" />
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>植物和动物的差别在哪里</text>
+        </navLabel>
+        <content src="Text/Section0002_0003.xhtml#sigil_toc_id_52" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>为什么眼虫有两张“护照”</text>
+        </navLabel>
+        <content src="Text/Section0002_0003.xhtml#sigil_toc_id_53" />
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>什么是植物的进化树</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>现代蕨类还能进化成种子植物吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0001.xhtml#sigil_toc_id_54" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>苔藓植物的祖先是谁</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0001.xhtml#sigil_toc_id_2" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>谁是最早“游上岸”的植物</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0002_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>什么是植物的“世代交替”</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0002_0001.xhtml#sigil_toc_id_3" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>雌雄异株的隐花植物如何繁衍后代</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0003_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>为什么其貌不扬的隐花能够吸引榕小蜂</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0003_0001.xhtml#sigil_toc_id_4" />
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>越鲜艳的蘑菇越有毒吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0004_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>冬虫夏草究竟是草还是虫</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0004_0001.xhtml#sigil_toc_id_5" />
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>为什么蕨类植物的叶片背面有很多“虫卵”</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0005_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>为什么苔藓植物长不高</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0005_0001.xhtml#sigil_toc_id_16" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>为什么生态系统中常用苔藓植物作为指示植物</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0005_0001.xhtml#sigil_toc_id_59" />
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>为什么植物要有学名</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0007.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>为什么给这种植物起名“何首乌”</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0007.xhtml#sigil_toc_id_60" />
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>为什么说银杉是植物界的大熊猫</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0008.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>谁是发现银杉第一人</text>
+        </navLabel>
+        <content src="Text/Section0002_0003_0008.xhtml#sigil_toc_id_61" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>植物结构与形态</text>
+      </navLabel>
+      <content src="Text/Section0002_0004.xhtml" />
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>水为什么能“爬上”百米高的大树</text>
+        </navLabel>
+        <content src="Text/Section0002_0004.xhtml#sigil_toc_id_62" />
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>植物有哪些抗旱的本领</text>
+        </navLabel>
+        <content src="Text/Section0002_0004.xhtml#sigil_toc_id_63" />
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>什么是根的作用</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>怎样识别根的“身份”</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0001.xhtml#sigil_toc_id_64" />
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>为什么独木也能成林</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0001.xhtml#sigil_toc_id_6" />
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>为什么有些大树基部会长板状的根</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0002_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>“果实”为什么结在大树干上</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0002_0001.xhtml#sigil_toc_id_18" />
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>热带雨林的四大奇观是什么</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0002_0001.xhtml#sigil_toc_id_66" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>为什么大多数树干都是圆柱形的</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0004.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>形状古怪的茎都有特殊功能吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0004.xhtml#sigil_toc_id_67" />
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>藕断为什么丝连</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0005.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>莲藕中为什么有那么多小洞洞</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0005.xhtml#sigil_toc_id_68" />
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>为什么年轮有深有浅</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0006.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>树木能长多高</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0006.xhtml#sigil_toc_id_69" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>爬山虎为什么能爬上高高的大墙</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0007.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>为什么草莓是“会爬的水果”</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0007.xhtml#sigil_toc_id_70" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>荷叶上的水滴为什么会变成“珍珠”</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0008.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>王莲的叶片上为什么能载小孩</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0008.xhtml#sigil_toc_id_71" />
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>文竹的叶片在哪里</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0008.xhtml#sigil_toc_id_7" />
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>为什么大多数叶子呈薄片状</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0009_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>为什么椰子树的叶子都聚生在树干顶端</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0009_0001.xhtml#sigil_toc_id_19" />
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>为什么百岁兰的叶片“长命百岁”</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0009_0001.xhtml#sigil_toc_id_73" />
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>形态各异的花是如何形成的</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0011.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>一条花枝上，为什么有的只开一朵花，有的却开多朵花</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0011_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>为什么花序有多种多样</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0011_0001.xhtml#sigil_toc_id_8" />
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>植物的花能吃吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0011_0001.xhtml#sigil_toc_id_75" />
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>花都有花瓣吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0013.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>无花果的花在什么地方</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0013.xhtml#sigil_toc_id_76" />
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>鲜艳的圣诞红，是真花瓣还是假花瓣</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0013.xhtml#sigil_toc_id_20" />
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>花朵为谁而美丽</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0014_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>动物分得清花朵的香臭吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0014_0001.xhtml#sigil_toc_id_9" />
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>为什么金银花的花朵会变色</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0014_0001.xhtml#sigil_toc_id_78" />
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>为什么雪松那么“浪费”花粉</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0016.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>昆虫和花朵是在公平交易吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0016.xhtml#sigil_toc_id_79" />
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>花朵怎样“诱骗”昆虫传粉</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0016.xhtml#sigil_toc_id_21" />
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>铁树开花真的很难吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0017_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>玉兰为什么先开花后长叶</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0017_0001.xhtml#sigil_toc_id_22" />
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>一株向日葵开几朵花</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0017_0001.xhtml#sigil_toc_id_81" />
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>为什么说果实是种子的“保护神”</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0019.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>种子里面有什么秘密</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0019.xhtml#sigil_toc_id_82" />
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>花生为什么要钻入地下</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0019.xhtml#sigil_toc_id_23" />
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>植物怎样“诱惑”动物传播种子</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0020_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>果实和种子怎样借风“旅行”</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0020_0001.xhtml#sigil_toc_id_24" />
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>喷瓜的果实为什么“爆炸”</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0021_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>为什么椰子树都微微向大海倾斜</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0021_0001.xhtml#sigil_toc_id_25" />
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>孢子为什么具有超强的生命力</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0022_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>“忍耐力”最强的植物是谁</text>
+        </navLabel>
+        <content src="Text/Section0002_0004_0022_0001.xhtml#sigil_toc_id_26" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>植物生理与代谢</text>
+      </navLabel>
+      <content src="Text/Section0002_0005.xhtml" />
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>为什么绿叶被称为“食物加工厂”</text>
+        </navLabel>
+        <content src="Text/Section0002_0005.xhtml#sigil_toc_id_86" />
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>绿叶工厂内有哪些“车间设备”</text>
+        </navLabel>
+        <content src="Text/Section0002_0005.xhtml#sigil_toc_id_87" />
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>为什么光合作用是生命发动机</text>
+        </navLabel>
+        <content src="Text/Section0002_0005.xhtml#sigil_toc_id_27" />
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>豆科植物的根部为什么会长小瘤子</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0001_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>庄稼为什么患上营养缺乏症</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0001_0001.xhtml#sigil_toc_id_28" />
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>为什么化肥不及有机肥</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0001_0001.xhtml#sigil_toc_id_89" />
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>食肉植物怎样为昆虫设下陷阱</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0003.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>为什么有些植物爱吃肉</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0003.xhtml#sigil_toc_id_90" />
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>为什么捕蝇草能感觉到猎物中了“埋伏”</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0003.xhtml#sigil_toc_id_29" />
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>植物有哪些抵抗害虫的手段</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0004_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>植物被虫子伤害会发出“求救”信号吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0004_0001.xhtml#sigil_toc_id_30" />
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>如何培育抗虫农作物</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0004_0001.xhtml#sigil_toc_id_92" />
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>什么是植物生产的“副产品”</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0006.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>为什么植物会产生酸、甜、苦、辣等味道的化合物</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0006.xhtml#sigil_toc_id_93" />
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>谁在表达植物花朵的“色彩语言”</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0007.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>打破种子休眠的“力量”在哪里</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0007_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>种子为什么要休眠</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0007_0001.xhtml#sigil_toc_id_31" />
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>谁是在春天唤醒植物的“闹钟”</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0008_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>为什么千年的古莲能发芽</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0008_0001.xhtml#sigil_toc_id_32" />
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>植物体内有多少神奇激素</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0009_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>植物激素能成为除草剂吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0009_0001.xhtml#sigil_toc_id_33" />
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>为什么睡莲花晚上要“睡觉”</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0010_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>不同的植物，“睡相”也不同吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0010_0001.xhtml#sigil_toc_id_34" />
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>花卉为什么爱把叶片伸出窗外</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0011_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>为什么牵牛花生长总是右旋而上</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0011_0001.xhtml#sigil_toc_id_35" />
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>为什么植物的根会向下长，茎会向上长</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0012_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>失去重力后的植物会怎样生长</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0012_0001.xhtml#sigil_toc_id_36" />
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>为什么有些花儿爱“追”太阳</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0013_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>为什么臭菘要自备“加热器”</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0013_0001.xhtml#sigil_toc_id_37" />
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>向日葵总是面向太阳吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0013_0001.xhtml#sigil_toc_id_101" />
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>为什么跳舞草爱“翩翩起舞”</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0015.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>含羞草为什么“含羞”</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0015.xhtml#sigil_toc_id_102" />
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>痒痒树真怕挠痒痒吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0015.xhtml#sigil_toc_id_38" />
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>为什么植物的叶片会“流汗”</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0016_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>怎样识别叶片上的露水和吐水</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0016_0001.xhtml#sigil_toc_id_39" />
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>为什么说叶片上有两种“嘴巴”</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0016_0001.xhtml#sigil_toc_id_104" />
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>沙滩上为什么出现“魔鬼亮脚印”</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0018.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>陆地上有发光植物吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0005_0018.xhtml#sigil_toc_id_105" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-113" playOrder="113">
+      <navLabel>
+        <text>植物生态与环境</text>
+      </navLabel>
+      <content src="Text/Section0002_0006.xhtml" />
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>生物的种类正在逐渐减少吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0006.xhtml#sigil_toc_id_106" />
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>只有濒危物种才需要保护吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0006.xhtml#sigil_toc_id_107" />
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>为什么人工林更容易发生病虫害</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>水生植物为什么不会被淹死</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0001_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>为什么说菱是“有生命的锚”</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0001_0001.xhtml#sigil_toc_id_40" />
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>水毛茛为什么长两种叶片</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0001_0001.xhtml#sigil_toc_id_109" />
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>阴生植物为什么不怕照不到阳光</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0003.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>为什么叶片的颜色正面比背面深</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0003.xhtml#sigil_toc_id_110" />
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>为什么在森林中能通过看树辨认方向</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0003.xhtml#sigil_toc_id_41" />
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>为什么高山植物的花朵特别艳丽</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0004_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>植物为什么讨厌绿色光</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0004_0001.xhtml#sigil_toc_id_10" />
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>自然界中有没有黑色的花朵</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0004_0001.xhtml#sigil_toc_id_112" />
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>为什么仙人掌那么耐渴</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0006.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>“昙花一现”是为了自我保护吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0006.xhtml#sigil_toc_id_113" />
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>仙人掌有毒吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0006.xhtml#sigil_toc_id_42" />
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>高山植物为什么都爱“趴在”地面</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0007_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>树木为什么变成了“旗形”</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0007_0001.xhtml#sigil_toc_id_43" />
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>植物为什么会控制自己的体温</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0008_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>有没有会自己产热升高体温的植物</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0008_0001.xhtml#sigil_toc_id_44" />
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>树干被冻裂的树为什么还能活</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0009_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>在抗冻前植物需要做哪些准备</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0009_0001.xhtml#sigil_toc_id_45" />
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>柽柳为什么不会被咸死</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0010_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>为什么胡杨被称为“沙漠勇士”</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0010_0001.xhtml#sigil_toc_id_46" />
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>雪莲为什么不会冻死</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0010_0001.xhtml#sigil_toc_id_118" />
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>水葫芦为什么会成为“绿色疯子”</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0012.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>薇甘菊是如何在中国泛滥成灾的</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0012.xhtml#sigil_toc_id_119" />
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>葛藤为什么成为美国人眼里的绿色恶魔</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0013.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>为什么葛藤有可能成为荒漠先锋植物</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0013.xhtml#sigil_toc_id_120" />
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>为什么有些植物之间会相克</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0014.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>为什么水仙和铃兰是一对“天生冤家”</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0014.xhtml#sigil_toc_id_121" />
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>植物能不能自己生产对付昆虫的“化学武器”</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0014.xhtml#sigil_toc_id_11" />
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>绞杀植物怎样“谋杀”大树</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0015_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>寄生植物是怎样不劳而获的</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0015_0001.xhtml#sigil_toc_id_47" />
+      </navPoint>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>小蚂蚁为什么誓死捍卫大树</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0016_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>飞鼠为什么护金钗</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0016_0001.xhtml#sigil_toc_id_48" />
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>植物有哪些自卫武器</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0017_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>谁是植物界的“伪装大师”</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0017_0001.xhtml#sigil_toc_id_49" />
+      </navPoint>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>魔草为什么成为粮食作物的杀手</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0018_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>为什么有些植物放在空气中也能生存</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0018_0001.xhtml#sigil_toc_id_50" />
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>伤害大马樱花的凶手是谁</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0018_0001.xhtml#sigil_toc_id_126" />
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>为什么现在风吹草低见牛羊的草原很少了</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0020.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>为什么有的植物会“行走”</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0020.xhtml#sigil_toc_id_127" />
+      </navPoint>
+      <navPoint id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>温带草原上为什么很少见到大树</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0021.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>猴面包树为什么能生长在非洲大草原上</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0021.xhtml#sigil_toc_id_128" />
+      </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>光秃秃的裸岩上怎样长出森林</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0022.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>为什么要对发菜手下留情</text>
+        </navLabel>
+        <content src="Text/Section0002_0006_0022.xhtml#sigil_toc_id_129" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-160" playOrder="160">
+      <navLabel>
+        <text>植物遗传与育种</text>
+      </navLabel>
+      <content src="Text/Section0002_0007.xhtml" />
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>植物的特性如何代代相传</text>
+        </navLabel>
+        <content src="Text/Section0002_0007.xhtml#sigil_toc_id_130" />
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>“遗传天书”完全决定了一个植物的生长吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0007.xhtml#sigil_toc_id_131" />
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>怎样读懂植物的“遗传天书”</text>
+        </navLabel>
+        <content src="Text/Section0002_0007.xhtml#sigil_toc_id_51" />
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>自然界的植物是如何变异为千姿百态的</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0001_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>植物“遗传天书”如何自我保护</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0001_0001.xhtml#sigil_toc_id_55" />
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>怎样对植物的“遗传天书”进行“升级改版”</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0001_0001.xhtml#sigil_toc_id_133" />
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>植物的遗传密码是如何工作的</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0003.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>植物的遗传密码会失效吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0003.xhtml#sigil_toc_id_134" />
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>植物的遗传密码可以修改吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0003.xhtml#sigil_toc_id_56" />
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>转基因植物有什么好处</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0004_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>怎样知道植物中基因转移的成败</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0004_0001.xhtml#sigil_toc_id_57" />
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>转基因植物安全吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0004_0001.xhtml#sigil_toc_id_136" />
+      </navPoint>
+      <navPoint id="navPoint-173" playOrder="173">
+        <navLabel>
+          <text>利用转基因技术可以获得新的植物品种吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0006.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>怎样才能获取有用基因</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0006.xhtml#sigil_toc_id_137" />
+      </navPoint>
+      <navPoint id="navPoint-175" playOrder="175">
+        <navLabel>
+          <text>怎样使各种有用的基因汇聚一堂</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0006.xhtml#sigil_toc_id_58" />
+      </navPoint>
+      <navPoint id="navPoint-176" playOrder="176">
+        <navLabel>
+          <text>植物也有“模特”吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0007_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-177" playOrder="177">
+        <navLabel>
+          <text>拟南芥为什么特别受科学家青睐</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0007_0001.xhtml#sigil_toc_id_65" />
+      </navPoint>
+      <navPoint id="navPoint-178" playOrder="178">
+        <navLabel>
+          <text>怎样人工栽培拟南芥</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0007_0001.xhtml#sigil_toc_id_139" />
+      </navPoint>
+      <navPoint id="navPoint-179" playOrder="179">
+        <navLabel>
+          <text>为什么植物细胞有“全能”的本领</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0009.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-180" playOrder="180">
+        <navLabel>
+          <text>植物也能像动物一样克隆吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0009_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-181" playOrder="181">
+        <navLabel>
+          <text>植物细胞怎样成长为完整植物体</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0009_0001.xhtml#sigil_toc_id_72" />
+      </navPoint>
+      <navPoint id="navPoint-182" playOrder="182">
+        <navLabel>
+          <text>辐射对植物会产生很大危害吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0010_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>怎样利用辐射培育出优良植物品种</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0010_0001.xhtml#sigil_toc_id_74" />
+      </navPoint>
+      <navPoint id="navPoint-184" playOrder="184">
+        <navLabel>
+          <text>植物抗御病害的手段有哪些</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0011_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-185" playOrder="185">
+        <navLabel>
+          <text>植物也有免疫能力吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0011_0001.xhtml#sigil_toc_id_83" />
+      </navPoint>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>如何培育抗病农作物</text>
+        </navLabel>
+        <content src="Text/Section0002_0007_0011_0001.xhtml#sigil_toc_id_143" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-187" playOrder="187">
+      <navLabel>
+        <text>植物利用与保护</text>
+      </navLabel>
+      <content src="Text/Section0002_0008.xhtml" />
+      <navPoint id="navPoint-188" playOrder="188">
+        <navLabel>
+          <text>为什么菜粉蝶特别喜欢油菜花</text>
+        </navLabel>
+        <content src="Text/Section0002_0008.xhtml#sigil_toc_id_144" />
+      </navPoint>
+      <navPoint id="navPoint-189" playOrder="189">
+        <navLabel>
+          <text>橄榄油为什么被称为“液体黄金”</text>
+        </navLabel>
+        <content src="Text/Section0002_0008.xhtml#sigil_toc_id_145" />
+      </navPoint>
+      <navPoint id="navPoint-190" playOrder="190">
+        <navLabel>
+          <text>葡萄中有什么健康魔力</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-191" playOrder="191">
+        <navLabel>
+          <text>葡萄怎样变成红葡萄酒</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0001.xhtml#sigil_toc_id_146" />
+      </navPoint>
+      <navPoint id="navPoint-192" playOrder="192">
+        <navLabel>
+          <text>花草为什么容易使人心旷神怡</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0002.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-193" playOrder="193">
+        <navLabel>
+          <text>为什么绿色植物能吸收和抵抗有害有毒物质</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0002.xhtml#sigil_toc_id_147" />
+      </navPoint>
+      <navPoint id="navPoint-194" playOrder="194">
+        <navLabel>
+          <text>能不能给植物“种牛痘”</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0003.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-195" playOrder="195">
+        <navLabel>
+          <text>苜蓿为什么变得如此神奇</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0003.xhtml#sigil_toc_id_148" />
+      </navPoint>
+      <navPoint id="navPoint-196" playOrder="196">
+        <navLabel>
+          <text>人参真的能使人起死回生吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0004.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-197" playOrder="197">
+        <navLabel>
+          <text>为什么甘草被称为“百药之王”</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0004.xhtml#sigil_toc_id_149" />
+      </navPoint>
+      <navPoint id="navPoint-198" playOrder="198">
+        <navLabel>
+          <text>“植物电池”的梦想能实现吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0004_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-199" playOrder="199">
+        <navLabel>
+          <text>为什么植物体内会带电</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0004_0001.xhtml#sigil_toc_id_150" />
+      </navPoint>
+      <navPoint id="navPoint-200" playOrder="200">
+        <navLabel>
+          <text>植物能替代石油吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0005_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-201" playOrder="201">
+        <navLabel>
+          <text>玉米中能“流出”乙醇吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0005_0001.xhtml#sigil_toc_id_151" />
+      </navPoint>
+      <navPoint id="navPoint-202" playOrder="202">
+        <navLabel>
+          <text>为什么紫云英成为了“矿工”</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0007.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-203" playOrder="203">
+        <navLabel>
+          <text>紫苜蓿怎样“联手”蜜蜂提炼钽</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0007.xhtml#sigil_toc_id_152" />
+      </navPoint>
+      <navPoint id="navPoint-204" playOrder="204">
+        <navLabel>
+          <text>为什么细菌被称为“超级冶金专家”</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0007.xhtml#sigil_toc_id_13" />
+      </navPoint>
+      <navPoint id="navPoint-205" playOrder="205">
+        <navLabel>
+          <text>为什么一棵树能值20万美元</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0008_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-206" playOrder="206">
+        <navLabel>
+          <text>为什么森林特别害怕酸雨</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0008_0001.xhtml#sigil_toc_id_14" />
+      </navPoint>
+      <navPoint id="navPoint-207" playOrder="207">
+        <navLabel>
+          <text>为什么要建立自然保护区</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0009_0001.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-208" playOrder="208">
+        <navLabel>
+          <text>有没有专门保护自然风景的保护区</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0009_0001.xhtml#sigil_toc_id_15" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-209" playOrder="209">
+      <navLabel>
+        <text>附录</text>
+      </navLabel>
+      <content src="Text/Section0002_0009.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-210" playOrder="210">
+      <navLabel>
+        <text>图片及辅文版权说明</text>
+      </navLabel>
+      <content src="Text/Section0002_0009.xhtml#sigil_toc_id_17" />
+    </navPoint>
+  </navMap>
+</ncx>

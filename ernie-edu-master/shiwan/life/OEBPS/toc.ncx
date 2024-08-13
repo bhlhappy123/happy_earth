@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:8eae6154-044d-4eda-8512-7b7528b4da28" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>十万个为什么（第六版）——生命</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>扉页</text>
+      </navLabel>
+      <content src="Text/feiye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>版权信息</text>
+      </navLabel>
+      <content src="Text/bq.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>序言</text>
+      </navLabel>
+      <content src="Text/Section0002_0001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="Text/TOC.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>导言</text>
+      </navLabel>
+      <content src="Text/Section0002_0002.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>为什么要研究生命科学</text>
+        </navLabel>
+        <content src="Text/Section0002_0002.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>生命的历程</text>
+      </navLabel>
+      <content src="Text/Section0002_0003.xhtml"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>什么是生命</text>
+        </navLabel>
+        <content src="Text/Section0002_0003.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>为什么说病毒既无生命又有生命</text>
+        </navLabel>
+        <content src="Text/Section0002_0003.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>地球上的生物永远不变吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>世界上第一个细胞是怎么产生的</text>
+        </navLabel>
+        <content src="Text/Section0002_0005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>真核细胞是怎么出现的</text>
+        </navLabel>
+        <content src="Text/Section0002_0005.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>生物的进化方向是怎样决定的</text>
+        </navLabel>
+        <content src="Text/Section0002_0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>为什么说是自然选择造就了单细胞动物和单细胞植物</text>
+        </navLabel>
+        <content src="Text/Section0002_0006.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>人类是怎样进化而来的</text>
+        </navLabel>
+        <content src="Text/Section0002_0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>人类会灭亡吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0007.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>什么是生物分类系统</text>
+        </navLabel>
+        <content src="Text/Section0002_0008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>为什么生物的分类系统是变化的</text>
+        </navLabel>
+        <content src="Text/Section0002_0008.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>生命的基本单位</text>
+      </navLabel>
+      <content src="Text/Section0002_0009.xhtml"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>谁首先提出细胞是生物体的基本单位</text>
+        </navLabel>
+        <content src="Text/Section0002_0009.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>细胞长什么样</text>
+        </navLabel>
+        <content src="Text/Section0002_0009.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>细胞都是人眼看不见的吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0009.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>为什么说细胞是一个“独立王国”</text>
+        </navLabel>
+        <content src="Text/Section0002_0010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>为什么说细胞核是操纵细胞活动的“司令部”</text>
+        </navLabel>
+        <content src="Text/Section0002_0010.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>为什么精子和卵子中只有1个基因组</text>
+        </navLabel>
+        <content src="Text/Section0002_0011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>精子和卵子是怎么形成的</text>
+        </navLabel>
+        <content src="Text/Section0002_0011.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>为什么同一生物的体细胞中都有相同的基因组</text>
+        </navLabel>
+        <content src="Text/Section0002_0012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>细胞是如何实现分化的</text>
+        </navLabel>
+        <content src="Text/Section0002_0012.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>“干细胞”是“脱水干掉的细胞”吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>怎样让干细胞“报到出列”</text>
+        </navLabel>
+        <content src="Text/Section0002_0013.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>干细胞能成为器官“仓库”吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>干细胞治病的大门何时真正打开</text>
+        </navLabel>
+        <content src="Text/Section0002_0014.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>“多利”为什么轰动世界</text>
+        </navLabel>
+        <content src="Text/Section0002_0015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>“多利”与白面母羊一模一样吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0015.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>能利用混合细胞实现“长生不老”的梦想吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0015.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>爱因斯坦能靠克隆技术复活吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>中国科学家是怎样得到无性繁殖小鼠的</text>
+        </navLabel>
+        <content src="Text/Section0002_0017.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>生命的生生不息</text>
+      </navLabel>
+      <content src="Text/Section0002_0018.xhtml"/>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>你在妈妈体内怎么长大</text>
+        </navLabel>
+        <content src="Text/Section0002_0018.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>谁是第一例“试管婴儿”</text>
+        </navLabel>
+        <content src="Text/Section0002_0019.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>试管婴儿技术安全吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0019.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>为什么说生男还是生女是由男性决定的</text>
+        </navLabel>
+        <content src="Text/Section0002_0020.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>除男女之外，人类还有其他的性别吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0020.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>为什么有人担心男性会灭绝</text>
+        </navLabel>
+        <content src="Text/Section0002_0020.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>为什么水螅既能做“爸爸”又能做“妈妈”</text>
+        </navLabel>
+        <content src="Text/Section0002_0021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>为什么小丑鱼会“雌雄同体”</text>
+        </navLabel>
+        <content src="Text/Section0002_0021.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>人到底能活多少岁</text>
+        </navLabel>
+        <content src="Text/Section0002_0021_0001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>人体内有“生命钟”吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0021_0001.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>海拉细胞为什么长生不老</text>
+        </navLabel>
+        <content src="Text/Section0002_0021_0001.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>为什么所有的动物都要吃东西</text>
+        </navLabel>
+        <content src="Text/Section0002_0022.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>为什么绝大多数植物都不用“吃”东西</text>
+        </navLabel>
+        <content src="Text/Section0002_0022.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>为什么说葡萄糖是人体内最重要的能量来源</text>
+        </navLabel>
+        <content src="Text/Section0002_0023.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>为什么我们还要吃不能提供能量的膳食纤维</text>
+        </navLabel>
+        <content src="Text/Section0002_0023.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>食盐对人体有什么作用</text>
+        </navLabel>
+        <content src="Text/Section0002_0024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>植物不会“撒尿”，为何能排出多余的盐</text>
+        </navLabel>
+        <content src="Text/Section0002_0024.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>为什么人的食物都来自其他生物</text>
+        </navLabel>
+        <content src="Text/Section0002_0025.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>为什么说肝脏不是“全能化工厂”</text>
+        </navLabel>
+        <content src="Text/Section0002_0025.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>生命的摇篮</text>
+      </navLabel>
+      <content src="Text/Section0002_0026.xhtml"/>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>为什么生物多样性对人类至关重要</text>
+        </navLabel>
+        <content src="Text/Section0002_0026.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>为什么生物多样性会丧失</text>
+        </navLabel>
+        <content src="Text/Section0002_0027.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>濒危的朱鹮为什么能“起死回生”</text>
+        </navLabel>
+        <content src="Text/Section0002_0027.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>为什么大熊猫和老虎会成为珍稀动物</text>
+        </navLabel>
+        <content src="Text/Section0002_0028.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>为什么要建立“种子银行”</text>
+        </navLabel>
+        <content src="Text/Section0002_0028.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>“螳螂捕蝉，黄雀在后”说明了什么</text>
+        </navLabel>
+        <content src="Text/Section0002_0029.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>为什么草原上的狮子比羚羊少得多</text>
+        </navLabel>
+        <content src="Text/Section0002_0029.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>为什么外来的兔子酿成了澳大利亚的草原灾难</text>
+        </navLabel>
+        <content src="Text/Section0002_0030.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>为什么不能将狼赶尽杀绝</text>
+        </navLabel>
+        <content src="Text/Section0002_0030.xhtml#sigil_toc_id_34"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>为什么公园里的空气更新鲜</text>
+        </navLabel>
+        <content src="Text/Section0002_0031.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>城市中的昆虫和鸟儿都去哪儿了</text>
+        </navLabel>
+        <content src="Text/Section0002_0031.xhtml#sigil_toc_id_35"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>生命的微观世界</text>
+      </navLabel>
+      <content src="Text/Section0002_0032.xhtml"/>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>为什么食物放久了会变质</text>
+        </navLabel>
+        <content src="Text/Section0002_0032.xhtml#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>为什么人体是个微生物的大世界</text>
+        </navLabel>
+        <content src="Text/Section0002_0032.xhtml#sigil_toc_id_37"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>为什么至今人类发现的微生物种类比动植物的少</text>
+        </navLabel>
+        <content src="Text/Section0002_0033.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>为什么说微生物是生物多样性最突出的生物</text>
+        </navLabel>
+        <content src="Text/Section0002_0033.xhtml#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>你知道细菌的新发现吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0034.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>能跟细菌“聊天”吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0034.xhtml#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>如何看到病毒</text>
+        </navLabel>
+        <content src="Text/Section0002_0034.xhtml#sigil_toc_id_40"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>病毒是洪水猛兽吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0035.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>病毒可以人工培养吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0035.xhtml#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>为什么生物体可以抵抗病毒的攻击</text>
+        </navLabel>
+        <content src="Text/Section0002_0035_0002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>为什么研制艾滋病疫苗困难重重</text>
+        </navLabel>
+        <content src="Text/Section0002_0035_0002.xhtml#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>幽门螺杆菌是怎么被发现的</text>
+        </navLabel>
+        <content src="Text/Section0002_0036.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>为什么幽门螺杆菌能躲在酸溜溜的胃液里作梗</text>
+        </navLabel>
+        <content src="Text/Section0002_0036.xhtml#sigil_toc_id_43"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>为什么说青霉素是20世纪最重要的药物</text>
+        </navLabel>
+        <content src="Text/Section0002_0037.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>为什么要合理使用抗生素</text>
+        </navLabel>
+        <content src="Text/Section0002_0037.xhtml#sigil_toc_id_44"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>人类如何消灭天花</text>
+        </navLabel>
+        <content src="Text/Section0002_0038.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>为什么疯牛病那么可怕</text>
+        </navLabel>
+        <content src="Text/Section0002_0038.xhtml#sigil_toc_id_45"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>为什么面包膨松可口</text>
+        </navLabel>
+        <content src="Text/Section0002_0039.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>为什么利用微生物能够酿造酱油</text>
+        </navLabel>
+        <content src="Text/Section0002_0039.xhtml#sigil_toc_id_46"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>为什么酒会变酸，醋会变味</text>
+        </navLabel>
+        <content src="Text/Section0002_0040.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>为什么说“巴氏消毒法”挽救了法国酿酒业</text>
+        </navLabel>
+        <content src="Text/Section0002_0040.xhtml#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>为什么味精生产要用谷氨酸棒杆菌</text>
+        </navLabel>
+        <content src="Text/Section0002_0041.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>为什么说微生物细胞是最先进的生物化工厂</text>
+        </navLabel>
+        <content src="Text/Section0002_0041.xhtml#sigil_toc_id_48"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>为什么微生物能为农作物治病</text>
+        </navLabel>
+        <content src="Text/Section0002_0042.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>为什么微生物制剂能杀虫</text>
+        </navLabel>
+        <content src="Text/Section0002_0042.xhtml#sigil_toc_id_49"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>为什么说微生物是最早出现在地球上的生物</text>
+        </navLabel>
+        <content src="Text/Section0002_0043.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>为什么微生物能净化污水</text>
+        </navLabel>
+        <content src="Text/Section0002_0043.xhtml#sigil_toc_id_50"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>为什么说新能源的开发离不开微生物</text>
+        </navLabel>
+        <content src="Text/Section0002_0044.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>为什么细菌可以用来发电</text>
+        </navLabel>
+        <content src="Text/Section0002_0044.xhtml#sigil_toc_id_51"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>用什么办法可以杀灭病原微生物</text>
+        </navLabel>
+        <content src="Text/Section0002_0045.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>为什么牛奶常用“巴氏消毒法”灭菌</text>
+        </navLabel>
+        <content src="Text/Section0002_0045.xhtml#sigil_toc_id_83"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>为什么病原体很难消灭</text>
+        </navLabel>
+        <content src="Text/Section0002_0046.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>为什么打过流感疫苗之后，下一年还要再打</text>
+        </navLabel>
+        <content src="Text/Section0002_0046.xhtml#sigil_toc_id_128"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-104" playOrder="104">
+      <navLabel>
+        <text>生命的传递</text>
+      </navLabel>
+      <content src="Text/Section0002_0047.xhtml"/>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>孟德尔怎样从豌豆中发现遗传的秘密</text>
+        </navLabel>
+        <content src="Text/Section0002_0047.xhtml#sigil_toc_id_129"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>为什么孟德尔能得知豌豆中看不见摸不着的基因型</text>
+        </navLabel>
+        <content src="Text/Section0002_0047.xhtml#sigil_toc_id_130"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>孟德尔是怎样发现自由组合定律的</text>
+        </navLabel>
+        <content src="Text/Section0002_0048.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>患白化病的父母一定会生出白化子女吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0048.xhtml#sigil_toc_id_131"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>为什么能应用孟德尔定律培育优质小麦</text>
+        </navLabel>
+        <content src="Text/Section0002_0048.xhtml#sigil_toc_id_132"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>为什么说那只白眼果蝇是科学史上最有名的昆虫</text>
+        </navLabel>
+        <content src="Text/Section0002_0048_0002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>为什么红绿色盲男多女少</text>
+        </navLabel>
+        <content src="Text/Section0002_0048_0002.xhtml#sigil_toc_id_133"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>人有多少条染色体</text>
+        </navLabel>
+        <content src="Text/Section0002_0049.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>憨态可掬的唐氏综合征患儿哪里出了错</text>
+        </navLabel>
+        <content src="Text/Section0002_0049.xhtml#sigil_toc_id_134"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>“六指”一定会遗传给下一代吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0050.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>为什么父母双方都有耳垂，却能生下无耳垂的子女</text>
+        </navLabel>
+        <content src="Text/Section0002_0050.xhtml#sigil_toc_id_135"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>为什么有些人的血型既不像父亲又不像母亲</text>
+        </navLabel>
+        <content src="Text/Section0002_0050.xhtml#sigil_toc_id_136"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>为什么“亨廷顿病”患者的家系中往往代代都有患者</text>
+        </navLabel>
+        <content src="Text/Section0002_0051.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>为什么“色盲岛”上有那么多人患全色盲</text>
+        </navLabel>
+        <content src="Text/Section0002_0051.xhtml#sigil_toc_id_137"/>
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>为什么血友病又被叫作“王室病”</text>
+        </navLabel>
+        <content src="Text/Section0002_0051.xhtml#sigil_toc_id_138"/>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>为什么说身高是多基因决定的</text>
+        </navLabel>
+        <content src="Text/Section0002_0052.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>为什么说糖尿病是遗传病</text>
+        </navLabel>
+        <content src="Text/Section0002_0052.xhtml#sigil_toc_id_139"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>为什么链霉素造成的耳聋因人而异</text>
+        </navLabel>
+        <content src="Text/Section0002_0052.xhtml#sigil_toc_id_140"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>肿瘤会遗传吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0053.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>为什么男性比女性更容易秃头</text>
+        </navLabel>
+        <content src="Text/Section0002_0053.xhtml#sigil_toc_id_141"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-125" playOrder="125">
+      <navLabel>
+        <text>生命的密码</text>
+      </navLabel>
+      <content src="Text/Section0002_0054.xhtml"/>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>DNA就是基因吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0054.xhtml#sigil_toc_id_142"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>什么样的DNA才称得上是基因</text>
+        </navLabel>
+        <content src="Text/Section0002_0054.xhtml#sigil_toc_id_143"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>为什么说组成基因的物质是DNA</text>
+        </navLabel>
+        <content src="Text/Section0002_0054_0002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>为什么DNA复制对生物体那么重要</text>
+        </navLabel>
+        <content src="Text/Section0002_0055.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>能不能人工复制DNA</text>
+        </navLabel>
+        <content src="Text/Section0002_0055.xhtml#sigil_toc_id_144"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>细胞中的新蛋白质来自哪里</text>
+        </navLabel>
+        <content src="Text/Section0002_0056.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>为什么20种氨基酸能构成人体中种类繁多的蛋白质</text>
+        </navLabel>
+        <content src="Text/Section0002_0056.xhtml#sigil_toc_id_145"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>基因为什么会突变</text>
+        </navLabel>
+        <content src="Text/Section0002_0057.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>青霉素也与基因突变有关吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0057.xhtml#sigil_toc_id_146"/>
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>为什么左旋螺特别稀罕</text>
+        </navLabel>
+        <content src="Text/Section0002_0058.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>为什么基因发挥作用离不开环境因素</text>
+        </navLabel>
+        <content src="Text/Section0002_0058.xhtml#sigil_toc_id_147"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>为什么要检查染色体</text>
+        </navLabel>
+        <content src="Text/Section0002_0059.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>为什么说白血病与染色体异常有关</text>
+        </navLabel>
+        <content src="Text/Section0002_0059.xhtml#sigil_toc_id_148"/>
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>无籽西瓜为什么无籽</text>
+        </navLabel>
+        <content src="Text/Section0002_0060.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>为什么香蕉没有种子</text>
+        </navLabel>
+        <content src="Text/Section0002_0060.xhtml#sigil_toc_id_149"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>出生缺陷是怎么造成的</text>
+        </navLabel>
+        <content src="Text/Section0002_0061.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>如何预防出生缺陷</text>
+        </navLabel>
+        <content src="Text/Section0002_0061.xhtml#sigil_toc_id_150"/>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>为什么同卵双胞胎会表现不一样</text>
+        </navLabel>
+        <content src="Text/Section0002_0062.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>为什么胎儿、婴儿期要特别小心</text>
+        </navLabel>
+        <content src="Text/Section0002_0063.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>为什么母鼠的食谱会影响新生小鼠的毛色</text>
+        </navLabel>
+        <content src="Text/Section0002_0063.xhtml#sigil_toc_id_151"/>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>为什么“多利”的诞生历尽艰辛</text>
+        </navLabel>
+        <content src="Text/Section0002_0063.xhtml#sigil_toc_id_152"/>
+      </navPoint>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>为什么有些人舌头大、肚脐凸</text>
+        </navLabel>
+        <content src="Text/Section0002_0064.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>为什么马骡更像马，驴骡更像驴</text>
+        </navLabel>
+        <content src="Text/Section0002_0064.xhtml#sigil_toc_id_153"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>人体内都有癌基因吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0065.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>为什么说巴马人长寿与DNA甲基化有关</text>
+        </navLabel>
+        <content src="Text/Section0002_0065.xhtml#sigil_toc_id_154"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-151" playOrder="151">
+      <navLabel>
+        <text>生物技术方兴未艾</text>
+      </navLabel>
+      <content src="Text/Section0002_0066.xhtml"/>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>为什么基因检测能诊断疾病</text>
+        </navLabel>
+        <content src="Text/Section0002_0066.xhtml#sigil_toc_id_155"/>
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>基因诊断有什么好处</text>
+        </navLabel>
+        <content src="Text/Section0002_0066.xhtml#sigil_toc_id_156"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>为什么基因治疗能“治本”</text>
+        </navLabel>
+        <content src="Text/Section0002_0067.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>怎样把基因送进人体</text>
+        </navLabel>
+        <content src="Text/Section0002_0067.xhtml#sigil_toc_id_157"/>
+      </navPoint>
+      <navPoint id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>为什么基因治疗可以降低化疗的风险</text>
+        </navLabel>
+        <content src="Text/Section0002_0068.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>为什么基因治疗要谨慎进行</text>
+        </navLabel>
+        <content src="Text/Section0002_0068.xhtml#sigil_toc_id_158"/>
+      </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>为什么基因芯片小身材有大容量</text>
+        </navLabel>
+        <content src="Text/Section0002_0068_0002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>为什么基因芯片是未来医学领域不可缺少的工具</text>
+        </navLabel>
+        <content src="Text/Section0002_0068_0002.xhtml#sigil_toc_id_159"/>
+      </navPoint>
+      <navPoint id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>转基因动物是怎样问世的</text>
+        </navLabel>
+        <content src="Text/Section0002_0069.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>转基因动物为什么能用来研究人类疾病</text>
+        </navLabel>
+        <content src="Text/Section0002_0069.xhtml#sigil_toc_id_160"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>为什么利用转基因动物生产基因药物</text>
+        </navLabel>
+        <content src="Text/Section0002_0070.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>科学家如何玩转基因</text>
+        </navLabel>
+        <content src="Text/Section0002_0071.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>基因工程能为人类带来什么好处</text>
+        </navLabel>
+        <content src="Text/Section0002_0071.xhtml#sigil_toc_id_161"/>
+      </navPoint>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>为什么转基因食品让人们忐忑不安</text>
+        </navLabel>
+        <content src="Text/Section0002_0072.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>为什么转基因食品需要“准生证”</text>
+        </navLabel>
+        <content src="Text/Section0002_0072.xhtml#sigil_toc_id_162"/>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>杂种为什么有优势</text>
+        </navLabel>
+        <content src="Text/Section0002_0073.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>中国的杂交水稻是如何诞生的</text>
+        </navLabel>
+        <content src="Text/Section0002_0073.xhtml#sigil_toc_id_163"/>
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>“滴血认亲”符合科学吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0074.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>为什么一滴血就能帮助警方锁定凶手</text>
+        </navLabel>
+        <content src="Text/Section0002_0074.xhtml#sigil_toc_id_164"/>
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>为什么指纹能用来鉴别身份</text>
+        </navLabel>
+        <content src="Text/Section0002_0075.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>为什么说DNA也有“指纹”</text>
+        </navLabel>
+        <content src="Text/Section0002_0075.xhtml#sigil_toc_id_165"/>
+      </navPoint>
+      <navPoint id="navPoint-173" playOrder="173">
+        <navLabel>
+          <text>为什么说DNA指纹比血型检测更可靠</text>
+        </navLabel>
+        <content src="Text/Section0002_0075.xhtml#sigil_toc_id_166"/>
+      </navPoint>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>为什么DNA鉴定可以破案</text>
+        </navLabel>
+        <content src="Text/Section0002_0076.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-175" playOrder="175">
+        <navLabel>
+          <text>由基因可以推测相貌吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0076.xhtml#sigil_toc_id_167"/>
+      </navPoint>
+      <navPoint id="navPoint-176" playOrder="176">
+        <navLabel>
+          <text>DNA鉴定会出错吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0076.xhtml#sigil_toc_id_168"/>
+      </navPoint>
+      <navPoint id="navPoint-177" playOrder="177">
+        <navLabel>
+          <text>什么是亲子鉴定</text>
+        </navLabel>
+        <content src="Text/Section0002_0077.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-178" playOrder="178">
+        <navLabel>
+          <text>为什么Y染色体会透露家族秘密</text>
+        </navLabel>
+        <content src="Text/Section0002_0077.xhtml#sigil_toc_id_169"/>
+      </navPoint>
+      <navPoint id="navPoint-179" playOrder="179">
+        <navLabel>
+          <text>DNA鉴定为什么长盛不衰</text>
+        </navLabel>
+        <content src="Text/Section0002_0077.xhtml#sigil_toc_id_170"/>
+      </navPoint>
+      <navPoint id="navPoint-180" playOrder="180">
+        <navLabel>
+          <text>为什么古DNA能够保存千万年</text>
+        </navLabel>
+        <content src="Text/Section0002_0078.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-181" playOrder="181">
+        <navLabel>
+          <text>沙皇等人的尸骨是如何被证实的</text>
+        </navLabel>
+        <content src="Text/Section0002_0078.xhtml#sigil_toc_id_171"/>
+      </navPoint>
+      <navPoint id="navPoint-182" playOrder="182">
+        <navLabel>
+          <text>什么是人类基因组计划</text>
+        </navLabel>
+        <content src="Text/Section0002_0079.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>人类基因组计划在测什么</text>
+        </navLabel>
+        <content src="Text/Section0002_0079.xhtml#sigil_toc_id_172"/>
+      </navPoint>
+      <navPoint id="navPoint-184" playOrder="184">
+        <navLabel>
+          <text>人类基因组计划有什么用</text>
+        </navLabel>
+        <content src="Text/Section0002_0079.xhtml#sigil_toc_id_173"/>
+      </navPoint>
+      <navPoint id="navPoint-185" playOrder="185">
+        <navLabel>
+          <text>有没有“垃圾DNA”</text>
+        </navLabel>
+        <content src="Text/Section0002_0080.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>为什么说人类基因组序列图的绘制只是认识生命的起点</text>
+        </navLabel>
+        <content src="Text/Section0002_0080.xhtml#sigil_toc_id_174"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-187" playOrder="187">
+      <navLabel>
+        <text>附录 图片及辅文版权说明</text>
+      </navLabel>
+      <content src="Text/Section0002_0081.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

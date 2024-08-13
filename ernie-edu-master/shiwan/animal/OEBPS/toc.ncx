@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:8eae6154-044d-4eda-8512-7b7528b4da28" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>十万个为什么（第六版）——动物</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>扉页</text>
+      </navLabel>
+      <content src="Text/feiye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>版权信息</text>
+      </navLabel>
+      <content src="Text/bq.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>序言</text>
+      </navLabel>
+      <content src="Text/Section0002_0001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="Text/TOC.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>导言</text>
+      </navLabel>
+      <content src="Text/Section0002_0002.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>我们为什么要善待动物</text>
+        </navLabel>
+        <content src="Text/Section0002_0002.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>哺乳动物</text>
+      </navLabel>
+      <content src="Text/Section0002_0003.xhtml"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>哺乳动物中寿命最长的是谁</text>
+        </navLabel>
+        <content src="Text/Section0002_0003.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>澳大利亚的动物为什么那么怪</text>
+        </navLabel>
+        <content src="Text/Section0002_0003.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>为什么哺乳动物的眼睛要长在前面</text>
+        </navLabel>
+        <content src="Text/Section0002_0003.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>为什么食肉动物吃荤不发胖，而猪吃杂食却长得那么胖</text>
+        </navLabel>
+        <content src="Text/Section0002_0004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>狮子为什么不敢单挑</text>
+        </navLabel>
+        <content src="Text/Section0002_0004.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>狮虎兽到底是什么动物</text>
+        </navLabel>
+        <content src="Text/Section0002_0004.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>为什么一山不容二虎</text>
+        </navLabel>
+        <content src="Text/Section0002_0005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>为什么虎毒不食子</text>
+        </navLabel>
+        <content src="Text/Section0002_0005.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>为什么会有白虎出生</text>
+        </navLabel>
+        <content src="Text/Section0002_0005.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>猎豹为什么不能长时间追击猎物</text>
+        </navLabel>
+        <content src="Text/Section0002_0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>金钱豹为什么要将猎物拖上树</text>
+        </navLabel>
+        <content src="Text/Section0002_0006.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>狼为什么爱在夜晚嚎叫</text>
+        </navLabel>
+        <content src="Text/Section0002_0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>美国黄石公园为什么要引进野狼</text>
+        </navLabel>
+        <content src="Text/Section0002_0007.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>为什么说“猫有九条命”</text>
+        </navLabel>
+        <content src="Text/Section0002_0008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>猫为什么要和老鼠过不去</text>
+        </navLabel>
+        <content src="Text/Section0002_0008.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>狗为什么和人那么亲密</text>
+        </navLabel>
+        <content src="Text/Section0002_0008.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>黄鼠狼为什么要放很臭的屁</text>
+        </navLabel>
+        <content src="Text/Section0002_0009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>最臭不可闻的动物是谁</text>
+        </navLabel>
+        <content src="Text/Section0002_0009.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>狐狸真的很狡猾吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0009.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>为什么吃竹子的大熊猫是食肉目动物</text>
+        </navLabel>
+        <content src="Text/Section0002_0010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>小熊猫是不是大熊猫的宝宝</text>
+        </navLabel>
+        <content src="Text/Section0002_0010.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>遇到熊装死有用吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>为什么秋天的熊特别贪吃</text>
+        </navLabel>
+        <content src="Text/Section0002_0011.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>不吃肉的食草动物怎么长肌肉</text>
+        </navLabel>
+        <content src="Text/Section0002_0011_0002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>食草的牛、马为什么力气那么大</text>
+        </navLabel>
+        <content src="Text/Section0002_0011_0002.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>牛为什么不停地嚼东西</text>
+        </navLabel>
+        <content src="Text/Section0002_0011_0002.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>为什么骆驼能在沙漠中长途跋涉</text>
+        </navLabel>
+        <content src="Text/Section0002_0012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>为什么圣诞老人用驯鹿拉礼物</text>
+        </navLabel>
+        <content src="Text/Section0002_0012.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>为什么驼鹿的角长得这么大</text>
+        </navLabel>
+        <content src="Text/Section0002_0012.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>为什么要保护大象</text>
+        </navLabel>
+        <content src="Text/Section0002_0013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>温顺的大象为什么会复仇</text>
+        </navLabel>
+        <content src="Text/Section0002_0013.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>松鼠的大尾巴有什么作用</text>
+        </navLabel>
+        <content src="Text/Section0002_0014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>老鼠为什么要囤粮</text>
+        </navLabel>
+        <content src="Text/Section0002_0014.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>老鼠为什么消灭不完</text>
+        </navLabel>
+        <content src="Text/Section0002_0014.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>食蚁兽为什么能吃到洞穴中的蚂蚁</text>
+        </navLabel>
+        <content src="Text/Section0002_0015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>穿山甲为什么能穿山</text>
+        </navLabel>
+        <content src="Text/Section0002_0015.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>作为哺乳动物的蝙蝠为什么会飞</text>
+        </navLabel>
+        <content src="Text/Section0002_0016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>蝙蝠为什么能在晚上飞行</text>
+        </navLabel>
+        <content src="Text/Section0002_0016.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>蝙蝠为什么要倒挂着休息</text>
+        </navLabel>
+        <content src="Text/Section0002_0016.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>河马为什么长时间潜在水里</text>
+        </navLabel>
+        <content src="Text/Section0002_0017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>河狸为什么要修水坝</text>
+        </navLabel>
+        <content src="Text/Section0002_0017.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>白鳍豚为什么找不到了</text>
+        </navLabel>
+        <content src="Text/Section0002_0017.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>鸟类</text>
+      </navLabel>
+      <content src="Text/Section0002_0018.xhtml"/>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>先有鸡还是先有蛋</text>
+        </navLabel>
+        <content src="Text/Section0002_0018.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>为什么鸟要孵蛋而乌龟不用孵蛋</text>
+        </navLabel>
+        <content src="Text/Section0002_0018.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>为什么小鸭子出生不久就能独自活动</text>
+        </navLabel>
+        <content src="Text/Section0002_0018.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>为什么母鸡不交配就能下蛋</text>
+        </navLabel>
+        <content src="Text/Section0002_0019.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>为什么母鸡可以一直下蛋</text>
+        </navLabel>
+        <content src="Text/Section0002_0019.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>鸟类为什么要在春季繁殖</text>
+        </navLabel>
+        <content src="Text/Section0002_0019.xhtml#sigil_toc_id_34"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>鸟儿为什么能飞起来</text>
+        </navLabel>
+        <content src="Text/Section0002_0020.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>鸵鸟和企鹅为什么不会飞</text>
+        </navLabel>
+        <content src="Text/Section0002_0020.xhtml#sigil_toc_id_35"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>渡渡鸟为何会灭绝</text>
+        </navLabel>
+        <content src="Text/Section0002_0020.xhtml#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>大雁如何知道几时开始迁徙</text>
+        </navLabel>
+        <content src="Text/Section0002_0021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>大雁为什么要排成“人”字飞行</text>
+        </navLabel>
+        <content src="Text/Section0002_0021.xhtml#sigil_toc_id_37"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>鸽子为什么不会迷路</text>
+        </navLabel>
+        <content src="Text/Section0002_0021.xhtml#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>鸟类为什么没有牙齿</text>
+        </navLabel>
+        <content src="Text/Section0002_0022.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>鸡为什么要吃小石子</text>
+        </navLabel>
+        <content src="Text/Section0002_0022.xhtml#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>鸟类的嘴为什么多种多样</text>
+        </navLabel>
+        <content src="Text/Section0002_0022.xhtml#sigil_toc_id_40"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>鸟儿为什么喜欢整理羽毛</text>
+        </navLabel>
+        <content src="Text/Section0002_0023.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>为什么有落汤鸡却没有落汤鸭</text>
+        </navLabel>
+        <content src="Text/Section0002_0023.xhtml#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>丑小鸭是怎么变成白天鹅的</text>
+        </navLabel>
+        <content src="Text/Section0002_0023.xhtml#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>孔雀为什么要开屏</text>
+        </navLabel>
+        <content src="Text/Section0002_0024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>公鸡的羽毛为什么比母鸡的羽毛漂亮</text>
+        </navLabel>
+        <content src="Text/Section0002_0024.xhtml#sigil_toc_id_43"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>鸟巢是鸟类终生栖居的家吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0025.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>为什么不同的鸟类筑的巢不一样</text>
+        </navLabel>
+        <content src="Text/Section0002_0025.xhtml#sigil_toc_id_44"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>杜鹃为什么要把蛋下到别的鸟巢里</text>
+        </navLabel>
+        <content src="Text/Section0002_0025.xhtml#sigil_toc_id_45"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>鸟类为什么要唱歌</text>
+        </navLabel>
+        <content src="Text/Section0002_0026.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>鹦鹉为什么会学人说话</text>
+        </navLabel>
+        <content src="Text/Section0002_0026.xhtml#sigil_toc_id_46"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>鸟类有方言吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0026.xhtml#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>为什么鸟站在树上睡觉不会掉下来</text>
+        </navLabel>
+        <content src="Text/Section0002_0027.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>麻雀为什么要跳着走</text>
+        </navLabel>
+        <content src="Text/Section0002_0027.xhtml#sigil_toc_id_48"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>苍鹭为什么喜欢一只脚站着</text>
+        </navLabel>
+        <content src="Text/Section0002_0027.xhtml#sigil_toc_id_49"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>有的鸟儿为什么喜欢照镜子</text>
+        </navLabel>
+        <content src="Text/Section0002_0028.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>为什么鸟会撞到玻璃上</text>
+        </navLabel>
+        <content src="Text/Section0002_0028.xhtml#sigil_toc_id_50"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>鸟会主动攻击人吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0028.xhtml#sigil_toc_id_51"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>北极为什么没有企鹅</text>
+        </navLabel>
+        <content src="Text/Section0002_0029.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>珍稀鸟类越多越好吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0029.xhtml#sigil_toc_id_83"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>为什么城市里的燕子越来越少了</text>
+        </navLabel>
+        <content src="Text/Section0002_0029.xhtml#sigil_toc_id_128"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>天下乌鸦真的一般黑吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0030.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>为什么说乌鸦是最聪明的鸟</text>
+        </navLabel>
+        <content src="Text/Section0002_0030.xhtml#sigil_toc_id_129"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>“喜鹊报喜、乌鸦报丧”有没有科学道理</text>
+        </navLabel>
+        <content src="Text/Section0002_0030.xhtml#sigil_toc_id_130"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>八哥为什么喜欢站在牛背上</text>
+        </navLabel>
+        <content src="Text/Section0002_0031.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>海鸥为什么跟着轮船飞</text>
+        </navLabel>
+        <content src="Text/Section0002_0031.xhtml#sigil_toc_id_131"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>为什么说燕子低飞要下雨</text>
+        </navLabel>
+        <content src="Text/Section0002_0031.xhtml#sigil_toc_id_132"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>为什么说早起的鸟儿有虫吃</text>
+        </navLabel>
+        <content src="Text/Section0002_0032.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>育雏时亲鸟怎样决定该先喂哪只幼鸟</text>
+        </navLabel>
+        <content src="Text/Section0002_0032.xhtml#sigil_toc_id_133"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>为什么鹭鸟的粪便是白色的</text>
+        </navLabel>
+        <content src="Text/Section0002_0032.xhtml#sigil_toc_id_134"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>为什么说鸳鸯是爱情的象征</text>
+        </navLabel>
+        <content src="Text/Section0002_0033.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>鹤是最长寿的鸟类吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0033.xhtml#sigil_toc_id_135"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>凤凰真的存在吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0033.xhtml#sigil_toc_id_136"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>为什么鹰能从高空发现地面的小猎物</text>
+        </navLabel>
+        <content src="Text/Section0002_0034.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>猫头鹰为什么在夜晚活动</text>
+        </navLabel>
+        <content src="Text/Section0002_0034.xhtml#sigil_toc_id_137"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>猫头鹰的头为何能转很大的角度</text>
+        </navLabel>
+        <content src="Text/Section0002_0034.xhtml#sigil_toc_id_138"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-101" playOrder="101">
+      <navLabel>
+        <text>两栖爬行类</text>
+      </navLabel>
+      <content src="Text/Section0002_0035.xhtml"/>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>为什么两栖动物的皮肤总是湿漉漉的</text>
+        </navLabel>
+        <content src="Text/Section0002_0035.xhtml#sigil_toc_id_139"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>为什么蛇要蜕皮</text>
+        </navLabel>
+        <content src="Text/Section0002_0035.xhtml#sigil_toc_id_140"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>为什么乌龟要长那么硬的壳</text>
+        </navLabel>
+        <content src="Text/Section0002_0035.xhtml#sigil_toc_id_141"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>沙漠里为什么有两栖动物</text>
+        </navLabel>
+        <content src="Text/Section0002_0036.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>为什么海蛙能生活在海中</text>
+        </navLabel>
+        <content src="Text/Section0002_0036.xhtml#sigil_toc_id_142"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>冬天的蛙都到哪里去了</text>
+        </navLabel>
+        <content src="Text/Section0002_0037.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>被“救”的蛇为什么要咬农夫</text>
+        </navLabel>
+        <content src="Text/Section0002_0037.xhtml#sigil_toc_id_143"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>小蝌蚪为什么不像妈妈</text>
+        </navLabel>
+        <content src="Text/Section0002_0037_0001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>为什么负子蟾要背着孩子</text>
+        </navLabel>
+        <content src="Text/Section0002_0037_0001.xhtml#sigil_toc_id_144"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>为什么蝮蛇妈妈不生蛋</text>
+        </navLabel>
+        <content src="Text/Section0002_0038.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>为什么海龟妈妈要生那么多蛋</text>
+        </navLabel>
+        <content src="Text/Section0002_0038.xhtml#sigil_toc_id_145"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>为什么树蛙产卵不在水中</text>
+        </navLabel>
+        <content src="Text/Section0002_0038.xhtml#sigil_toc_id_146"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>响尾蛇为什么要摇尾巴</text>
+        </navLabel>
+        <content src="Text/Section0002_0039.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>小小的蛙为什么有大嗓门</text>
+        </navLabel>
+        <content src="Text/Section0002_0039.xhtml#sigil_toc_id_147"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>青蛙为什么晚上更容易被抓住</text>
+        </navLabel>
+        <content src="Text/Section0002_0040.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>蛇为什么要吐舌头</text>
+        </navLabel>
+        <content src="Text/Section0002_0040.xhtml#sigil_toc_id_148"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>蝮蛇是如何在漆黑的夜晚抓住老鼠的</text>
+        </navLabel>
+        <content src="Text/Section0002_0040.xhtml#sigil_toc_id_149"/>
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>为什么一些蜥蜴可以在水面上奔跑</text>
+        </navLabel>
+        <content src="Text/Section0002_0041.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>为什么一些蜥蜴会变色</text>
+        </navLabel>
+        <content src="Text/Section0002_0041.xhtml#sigil_toc_id_150"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>龟为什么长寿</text>
+        </navLabel>
+        <content src="Text/Section0002_0042.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>怎样判断龟的年龄</text>
+        </navLabel>
+        <content src="Text/Section0002_0042.xhtml#sigil_toc_id_151"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>青蛙吃东西的时候为什么紧闭双眼</text>
+        </navLabel>
+        <content src="Text/Section0002_0043.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>鳄鱼吃东西的时候会流泪吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0043.xhtml#sigil_toc_id_152"/>
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>海龟为什么会吃塑料袋</text>
+        </navLabel>
+        <content src="Text/Section0002_0043.xhtml#sigil_toc_id_153"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>蛙为什么要穿“迷彩服”</text>
+        </navLabel>
+        <content src="Text/Section0002_0044.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>大鲵为什么被称为娃娃鱼</text>
+        </navLabel>
+        <content src="Text/Section0002_0044.xhtml#sigil_toc_id_154"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>毒蛇咬到自己会不会中毒</text>
+        </navLabel>
+        <content src="Text/Section0002_0045.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>如何分辨有毒蛇和无毒蛇</text>
+        </navLabel>
+        <content src="Text/Section0002_0045.xhtml#sigil_toc_id_155"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>有没有毒蜥蜴</text>
+        </navLabel>
+        <content src="Text/Section0002_0045.xhtml#sigil_toc_id_156"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-131" playOrder="131">
+      <navLabel>
+        <text>鱼类</text>
+      </navLabel>
+      <content src="Text/Section0002_0046.xhtml"/>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>为什么黄鱼的脑袋里会长出“石头”来</text>
+        </navLabel>
+        <content src="Text/Section0002_0046.xhtml#sigil_toc_id_157"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>比目鱼的双眼天生就长在同一侧吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0046.xhtml#sigil_toc_id_158"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>金鱼为什么不睡觉</text>
+        </navLabel>
+        <content src="Text/Section0002_0046.xhtml#sigil_toc_id_159"/>
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>鱼为什么要不停地喝水</text>
+        </navLabel>
+        <content src="Text/Section0002_0047.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>弹涂鱼为什么喜欢把尾巴伸进水面</text>
+        </navLabel>
+        <content src="Text/Section0002_0047.xhtml#sigil_toc_id_160"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>为什么夏天池塘里的鱼儿爱浮头</text>
+        </navLabel>
+        <content src="Text/Section0002_0047.xhtml#sigil_toc_id_161"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>为什么北极的鳕鱼冻不死</text>
+        </navLabel>
+        <content src="Text/Section0002_0048.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>为什么说金枪鱼的血是热的</text>
+        </navLabel>
+        <content src="Text/Section0002_0048.xhtml#sigil_toc_id_162"/>
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>海水很咸，为什么海鱼肉却是淡的</text>
+        </navLabel>
+        <content src="Text/Section0002_0049.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>为什么要有休渔期</text>
+        </navLabel>
+        <content src="Text/Section0002_0049.xhtml#sigil_toc_id_163"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>鱼儿都是哑巴吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0049_0002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>鱼儿是怎样呼朋唤友的</text>
+        </navLabel>
+        <content src="Text/Section0002_0049_0002.xhtml#sigil_toc_id_164"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>鱼儿为什么能自由上浮和下潜</text>
+        </navLabel>
+        <content src="Text/Section0002_0050.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>鲨鱼为什么不停地游泳</text>
+        </navLabel>
+        <content src="Text/Section0002_0050.xhtml#sigil_toc_id_165"/>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>为什么鱼死后会“翻白肚”</text>
+        </navLabel>
+        <content src="Text/Section0002_0050.xhtml#sigil_toc_id_166"/>
+      </navPoint>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>沙丁鱼为什么喜欢抱成大团</text>
+        </navLabel>
+        <content src="Text/Section0002_0051.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>大马哈鱼为什么能找到回家的路</text>
+        </navLabel>
+        <content src="Text/Section0002_0051.xhtml#sigil_toc_id_167"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>斗鱼为什么喜欢争斗</text>
+        </navLabel>
+        <content src="Text/Section0002_0051.xhtml#sigil_toc_id_168"/>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>为什么没有视觉的鱼儿也能生存</text>
+        </navLabel>
+        <content src="Text/Section0002_0052.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>为什么深海里的鱼儿要挂“灯笼”</text>
+        </navLabel>
+        <content src="Text/Section0002_0052.xhtml#sigil_toc_id_169"/>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>为什么大多数鱼都是扁的</text>
+        </navLabel>
+        <content src="Text/Section0002_0052.xhtml#sigil_toc_id_170"/>
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>为什么说矛尾鱼是活化石</text>
+        </navLabel>
+        <content src="Text/Section0002_0053.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>为什么鱼背颜色深而鱼腹颜色浅</text>
+        </navLabel>
+        <content src="Text/Section0002_0053.xhtml#sigil_toc_id_171"/>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>鱼子酱是什么鱼卵做的</text>
+        </navLabel>
+        <content src="Text/Section0002_0054.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>为什么要给江河里的鱼儿修“台阶”</text>
+        </navLabel>
+        <content src="Text/Section0002_0054.xhtml#sigil_toc_id_172"/>
+      </navPoint>
+      <navPoint id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>鳑鲏鱼为什么要把“肠子”露在外面</text>
+        </navLabel>
+        <content src="Text/Section0002_0054.xhtml#sigil_toc_id_173"/>
+      </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>为什么鲨鱼都是“软骨头”</text>
+        </navLabel>
+        <content src="Text/Section0002_0055.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>鲨鱼为什么会“手足相残”</text>
+        </navLabel>
+        <content src="Text/Section0002_0055.xhtml#sigil_toc_id_174"/>
+      </navPoint>
+      <navPoint id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>为什么鲨鱼一生都在换牙齿</text>
+        </navLabel>
+        <content src="Text/Section0002_0055.xhtml#sigil_toc_id_175"/>
+      </navPoint>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>为什么说海马也是鱼</text>
+        </navLabel>
+        <content src="Text/Section0002_0056.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>“既当爹又当妈”是怎么回事</text>
+        </navLabel>
+        <content src="Text/Section0002_0056.xhtml#sigil_toc_id_176"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>电鳗的身体为什么能产生电</text>
+        </navLabel>
+        <content src="Text/Section0002_0057.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>为什么电鳗放的电不会电到自己</text>
+        </navLabel>
+        <content src="Text/Section0002_0057.xhtml#sigil_toc_id_177"/>
+      </navPoint>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>为什么鲤鱼在美国成了祸害</text>
+        </navLabel>
+        <content src="Text/Section0002_0058.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>为什么说“灭蚊英雄”是在帮倒忙</text>
+        </navLabel>
+        <content src="Text/Section0002_0058.xhtml#sigil_toc_id_178"/>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>为什么银鱼也应该“计划生育”</text>
+        </navLabel>
+        <content src="Text/Section0002_0058.xhtml#sigil_toc_id_179"/>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>“赤身裸体”的高山湟鱼为什么不怕冷</text>
+        </navLabel>
+        <content src="Text/Section0002_0059.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>水塘里的小鱼是怎么“长”出来的</text>
+        </navLabel>
+        <content src="Text/Section0002_0059.xhtml#sigil_toc_id_180"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-170" playOrder="170">
+      <navLabel>
+        <text>昆虫</text>
+      </navLabel>
+      <content src="Text/Section0002_0060.xhtml"/>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>苍蝇为什么让人讨厌</text>
+        </navLabel>
+        <content src="Text/Section0002_0060.xhtml#sigil_toc_id_181"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>苍蝇为什么不生病</text>
+        </navLabel>
+        <content src="Text/Section0002_0060.xhtml#sigil_toc_id_182"/>
+      </navPoint>
+      <navPoint id="navPoint-173" playOrder="173">
+        <navLabel>
+          <text>为什么吸血的总是雌蚊子</text>
+        </navLabel>
+        <content src="Text/Section0002_0061.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>人被蚊子叮咬后为什么会感觉痒</text>
+        </navLabel>
+        <content src="Text/Section0002_0061.xhtml#sigil_toc_id_183"/>
+      </navPoint>
+      <navPoint id="navPoint-175" playOrder="175">
+        <navLabel>
+          <text>疟疾为什么与蚊子有关系</text>
+        </navLabel>
+        <content src="Text/Section0002_0061.xhtml#sigil_toc_id_184"/>
+      </navPoint>
+      <navPoint id="navPoint-176" playOrder="176">
+        <navLabel>
+          <text>为什么搬新家后也会出现蟑螂</text>
+        </navLabel>
+        <content src="Text/Section0002_0062.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-177" playOrder="177">
+        <navLabel>
+          <text>为什么有人要给蟑螂平反</text>
+        </navLabel>
+        <content src="Text/Section0002_0062.xhtml#sigil_toc_id_185"/>
+      </navPoint>
+      <navPoint id="navPoint-178" playOrder="178">
+        <navLabel>
+          <text>箱子里的衣服为什么会生虫</text>
+        </navLabel>
+        <content src="Text/Section0002_0063.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-179" playOrder="179">
+        <navLabel>
+          <text>房间里为什么会飞出小蛾</text>
+        </navLabel>
+        <content src="Text/Section0002_0063.xhtml#sigil_toc_id_186"/>
+      </navPoint>
+      <navPoint id="navPoint-180" playOrder="180">
+        <navLabel>
+          <text>蚂蚁为什么排着队走路</text>
+        </navLabel>
+        <content src="Text/Section0002_0064.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-181" playOrder="181">
+        <navLabel>
+          <text>蚂蚁为什么总是很忙碌</text>
+        </navLabel>
+        <content src="Text/Section0002_0064.xhtml#sigil_toc_id_187"/>
+      </navPoint>
+      <navPoint id="navPoint-182" playOrder="182">
+        <navLabel>
+          <text>蝈蝈为什么要不停地“唱歌”</text>
+        </navLabel>
+        <content src="Text/Section0002_0065.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>蟋蟀为什么爱打架</text>
+        </navLabel>
+        <content src="Text/Section0002_0065.xhtml#sigil_toc_id_188"/>
+      </navPoint>
+      <navPoint id="navPoint-184" playOrder="184">
+        <navLabel>
+          <text>漂亮的蝴蝶怎么会变成一片“枯叶”</text>
+        </navLabel>
+        <content src="Text/Section0002_0066.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-185" playOrder="185">
+        <navLabel>
+          <text>蚱蜢的体色为什么会随季节而改变</text>
+        </navLabel>
+        <content src="Text/Section0002_0066.xhtml#sigil_toc_id_189"/>
+      </navPoint>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>丑陋的毛毛虫为什么会变成美丽的蝴蝶</text>
+        </navLabel>
+        <content src="Text/Section0002_0067.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-187" playOrder="187">
+        <navLabel>
+          <text>为什么小飞虫总爱在灯下飞来飞去</text>
+        </navLabel>
+        <content src="Text/Section0002_0067.xhtml#sigil_toc_id_190"/>
+      </navPoint>
+      <navPoint id="navPoint-188" playOrder="188">
+        <navLabel>
+          <text>屎壳郎为什么喜欢滚粪球</text>
+        </navLabel>
+        <content src="Text/Section0002_0068.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-189" playOrder="189">
+        <navLabel>
+          <text>为什么独角仙头上会长角</text>
+        </navLabel>
+        <content src="Text/Section0002_0068.xhtml#sigil_toc_id_191"/>
+      </navPoint>
+      <navPoint id="navPoint-190" playOrder="190">
+        <navLabel>
+          <text>蜻蜓为什么要点水</text>
+        </navLabel>
+        <content src="Text/Section0002_0069.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-191" playOrder="191">
+        <navLabel>
+          <text>水黾为什么能在水面上行走自如</text>
+        </navLabel>
+        <content src="Text/Section0002_0069.xhtml#sigil_toc_id_192"/>
+      </navPoint>
+      <navPoint id="navPoint-192" playOrder="192">
+        <navLabel>
+          <text>龙虱为什么能在水中呼吸</text>
+        </navLabel>
+        <content src="Text/Section0002_0069.xhtml#sigil_toc_id_193"/>
+      </navPoint>
+      <navPoint id="navPoint-193" playOrder="193">
+        <navLabel>
+          <text>蜜蜂为什么要酿蜜</text>
+        </navLabel>
+        <content src="Text/Section0002_0070.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-194" playOrder="194">
+        <navLabel>
+          <text>无花果为什么也能结出甜美的果实</text>
+        </navLabel>
+        <content src="Text/Section0002_0070.xhtml#sigil_toc_id_194"/>
+      </navPoint>
+      <navPoint id="navPoint-195" playOrder="195">
+        <navLabel>
+          <text>萤火虫为什么会发光</text>
+        </navLabel>
+        <content src="Text/Section0002_0071.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-196" playOrder="196">
+        <navLabel>
+          <text>为什么萤火虫发出的光很亮，自己却不会被灼伤</text>
+        </navLabel>
+        <content src="Text/Section0002_0071.xhtml#sigil_toc_id_195"/>
+      </navPoint>
+      <navPoint id="navPoint-197" playOrder="197">
+        <navLabel>
+          <text>为什么土壤中有那么多昆虫</text>
+        </navLabel>
+        <content src="Text/Section0002_0072.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-198" playOrder="198">
+        <navLabel>
+          <text>为什么在冰雪覆盖的北极仍有跳虫活动</text>
+        </navLabel>
+        <content src="Text/Section0002_0072.xhtml#sigil_toc_id_196"/>
+      </navPoint>
+      <navPoint id="navPoint-199" playOrder="199">
+        <navLabel>
+          <text>叩头虫为什么要“叩头”</text>
+        </navLabel>
+        <content src="Text/Section0002_0073.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-200" playOrder="200">
+        <navLabel>
+          <text>为什么跳蚤善于跳跃</text>
+        </navLabel>
+        <content src="Text/Section0002_0073.xhtml#sigil_toc_id_197"/>
+      </navPoint>
+      <navPoint id="navPoint-201" playOrder="201">
+        <navLabel>
+          <text>屁步甲为什么要“放屁”</text>
+        </navLabel>
+        <content src="Text/Section0002_0073.xhtml#sigil_toc_id_198"/>
+      </navPoint>
+      <navPoint id="navPoint-202" playOrder="202">
+        <navLabel>
+          <text>地球上的动物中，为什么昆虫的种类最多</text>
+        </navLabel>
+        <content src="Text/Section0002_0074.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-203" playOrder="203">
+        <navLabel>
+          <text>昆虫为什么都是小型的</text>
+        </navLabel>
+        <content src="Text/Section0002_0074.xhtml#sigil_toc_id_199"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-204" playOrder="204">
+      <navLabel>
+        <text>无脊椎动物</text>
+      </navLabel>
+      <content src="Text/Section0002_0075.xhtml"/>
+      <navPoint id="navPoint-205" playOrder="205">
+        <navLabel>
+          <text>我们的被窝里有多少螨虫</text>
+        </navLabel>
+        <content src="Text/Section0002_0075.xhtml#sigil_toc_id_200"/>
+      </navPoint>
+      <navPoint id="navPoint-206" playOrder="206">
+        <navLabel>
+          <text>酒糟鼻是贪酒造成的吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0075.xhtml#sigil_toc_id_201"/>
+      </navPoint>
+      <navPoint id="navPoint-207" playOrder="207">
+        <navLabel>
+          <text>鼻涕虫为什么会拖“鼻涕”</text>
+        </navLabel>
+        <content src="Text/Section0002_0076.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-208" playOrder="208">
+        <navLabel>
+          <text>鼻涕虫为什么怕盐</text>
+        </navLabel>
+        <content src="Text/Section0002_0076.xhtml#sigil_toc_id_202"/>
+      </navPoint>
+      <navPoint id="navPoint-209" playOrder="209">
+        <navLabel>
+          <text>为什么居然有人吃鼻涕虫</text>
+        </navLabel>
+        <content src="Text/Section0002_0076.xhtml#sigil_toc_id_203"/>
+      </navPoint>
+      <navPoint id="navPoint-210" playOrder="210">
+        <navLabel>
+          <text>为什么农民喜欢蚯蚓</text>
+        </navLabel>
+        <content src="Text/Section0002_0077.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-211" playOrder="211">
+        <navLabel>
+          <text>为什么蚯蚓能在地下穿行自如</text>
+        </navLabel>
+        <content src="Text/Section0002_0077.xhtml#sigil_toc_id_204"/>
+      </navPoint>
+      <navPoint id="navPoint-212" playOrder="212">
+        <navLabel>
+          <text>蜘蛛为什么能在两棵树间织网</text>
+        </navLabel>
+        <content src="Text/Section0002_0078.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-213" playOrder="213">
+        <navLabel>
+          <text>蜘蛛丝为什么那么坚韧</text>
+        </navLabel>
+        <content src="Text/Section0002_0078.xhtml#sigil_toc_id_205"/>
+      </navPoint>
+      <navPoint id="navPoint-214" playOrder="214">
+        <navLabel>
+          <text>蜘蛛为什么不会被自己织的网粘住</text>
+        </navLabel>
+        <content src="Text/Section0002_0078.xhtml#sigil_toc_id_206"/>
+      </navPoint>
+      <navPoint id="navPoint-215" playOrder="215">
+        <navLabel>
+          <text>蜈蚣有那么多脚，为什么不会被自己绊倒</text>
+        </navLabel>
+        <content src="Text/Section0002_0079.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-216" playOrder="216">
+        <navLabel>
+          <text>为什么说蜈蚣也是毒物</text>
+        </navLabel>
+        <content src="Text/Section0002_0079.xhtml#sigil_toc_id_207"/>
+      </navPoint>
+      <navPoint id="navPoint-217" playOrder="217">
+        <navLabel>
+          <text>为什么寄生虫会钻进人脑中</text>
+        </navLabel>
+        <content src="Text/Section0002_0080.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-218" playOrder="218">
+        <navLabel>
+          <text>为什么寄生虫病难以根绝</text>
+        </navLabel>
+        <content src="Text/Section0002_0080.xhtml#sigil_toc_id_208"/>
+      </navPoint>
+      <navPoint id="navPoint-219" playOrder="219">
+        <navLabel>
+          <text>螃蟹为什么吐泡沫</text>
+        </navLabel>
+        <content src="Text/Section0002_0081.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-220" playOrder="220">
+        <navLabel>
+          <text>招潮蟹为什么一个钳子大一个钳子小</text>
+        </navLabel>
+        <content src="Text/Section0002_0081.xhtml#sigil_toc_id_209"/>
+      </navPoint>
+      <navPoint id="navPoint-221" playOrder="221">
+        <navLabel>
+          <text>螃蟹为什么长着一对柄眼</text>
+        </navLabel>
+        <content src="Text/Section0002_0081.xhtml#sigil_toc_id_210"/>
+      </navPoint>
+      <navPoint id="navPoint-222" playOrder="222">
+        <navLabel>
+          <text>为什么水母会螫人</text>
+        </navLabel>
+        <content src="Text/Section0002_0082.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-223" playOrder="223">
+        <navLabel>
+          <text>为什么水母能预知风暴</text>
+        </navLabel>
+        <content src="Text/Section0002_0082.xhtml#sigil_toc_id_211"/>
+      </navPoint>
+      <navPoint id="navPoint-224" playOrder="224">
+        <navLabel>
+          <text>为什么有些水母会发光</text>
+        </navLabel>
+        <content src="Text/Section0002_0082.xhtml#sigil_toc_id_212"/>
+      </navPoint>
+      <navPoint id="navPoint-225" playOrder="225">
+        <navLabel>
+          <text>为什么蛤、蚌里会长出珍珠</text>
+        </navLabel>
+        <content src="Text/Section0002_0083.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-226" playOrder="226">
+        <navLabel>
+          <text>为什么珍珠有不同的颜色</text>
+        </navLabel>
+        <content src="Text/Section0002_0083.xhtml#sigil_toc_id_213"/>
+      </navPoint>
+      <navPoint id="navPoint-227" playOrder="227">
+        <navLabel>
+          <text>许多动物都会冬眠，为什么海参却要夏眠</text>
+        </navLabel>
+        <content src="Text/Section0002_0084.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-228" playOrder="228">
+        <navLabel>
+          <text>海参失去内脏后为什么不会死</text>
+        </navLabel>
+        <content src="Text/Section0002_0084.xhtml#sigil_toc_id_214"/>
+      </navPoint>
+      <navPoint id="navPoint-229" playOrder="229">
+        <navLabel>
+          <text>为什么说海百合也是动物</text>
+        </navLabel>
+        <content src="Text/Section0002_0084.xhtml#sigil_toc_id_215"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-230" playOrder="230">
+      <navLabel>
+        <text>综合</text>
+      </navLabel>
+      <content src="Text/Section0002_0085.xhtml"/>
+      <navPoint id="navPoint-231" playOrder="231">
+        <navLabel>
+          <text>为什么沙漠里的动物能活下去</text>
+        </navLabel>
+        <content src="Text/Section0002_0085.xhtml#sigil_toc_id_216"/>
+      </navPoint>
+      <navPoint id="navPoint-232" playOrder="232">
+        <navLabel>
+          <text>为什么寒冬的白鹭能在水中活动自如</text>
+        </navLabel>
+        <content src="Text/Section0002_0085.xhtml#sigil_toc_id_217"/>
+      </navPoint>
+      <navPoint id="navPoint-233" playOrder="233">
+        <navLabel>
+          <text>为什么没有三条腿的动物</text>
+        </navLabel>
+        <content src="Text/Section0002_0086.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-234" playOrder="234">
+        <navLabel>
+          <text>两条腿跑得快还是四条腿跑得快</text>
+        </navLabel>
+        <content src="Text/Section0002_0086.xhtml#sigil_toc_id_218"/>
+      </navPoint>
+      <navPoint id="navPoint-235" playOrder="235">
+        <navLabel>
+          <text>动物为什么要长尾巴</text>
+        </navLabel>
+        <content src="Text/Section0002_0087.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-236" playOrder="236">
+        <navLabel>
+          <text>人类为什么没有尾巴</text>
+        </navLabel>
+        <content src="Text/Section0002_0087.xhtml#sigil_toc_id_219"/>
+      </navPoint>
+      <navPoint id="navPoint-237" playOrder="237">
+        <navLabel>
+          <text>为什么有些动物有毒</text>
+        </navLabel>
+        <content src="Text/Section0002_0088.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-238" playOrder="238">
+        <navLabel>
+          <text>为什么要对屠宰场里的猪、牛实行安乐死</text>
+        </navLabel>
+        <content src="Text/Section0002_0088.xhtml#sigil_toc_id_220"/>
+      </navPoint>
+      <navPoint id="navPoint-239" playOrder="239">
+        <navLabel>
+          <text>为什么雄性动物爱臭美</text>
+        </navLabel>
+        <content src="Text/Section0002_0089.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-240" playOrder="240">
+        <navLabel>
+          <text>为什么雄性动物妻妾成群</text>
+        </navLabel>
+        <content src="Text/Section0002_0089.xhtml#sigil_toc_id_221"/>
+      </navPoint>
+      <navPoint id="navPoint-241" playOrder="241">
+        <navLabel>
+          <text>动物为什么爱打架</text>
+        </navLabel>
+        <content src="Text/Section0002_0090.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-242" playOrder="242">
+        <navLabel>
+          <text>动物为什么有时对孩子很冷酷</text>
+        </navLabel>
+        <content src="Text/Section0002_0090.xhtml#sigil_toc_id_222"/>
+      </navPoint>
+      <navPoint id="navPoint-243" playOrder="243">
+        <navLabel>
+          <text>动物中谁的忍饥挨饿能力强</text>
+        </navLabel>
+        <content src="Text/Section0002_0091.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-244" playOrder="244">
+        <navLabel>
+          <text>动物为什么会偏食</text>
+        </navLabel>
+        <content src="Text/Section0002_0091.xhtml#sigil_toc_id_223"/>
+      </navPoint>
+      <navPoint id="navPoint-245" playOrder="245">
+        <navLabel>
+          <text>动物眼中看到的物体与人类看到的一样吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0092.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-246" playOrder="246">
+        <navLabel>
+          <text>动物是如何辨别敌人、猎物和朋友的</text>
+        </navLabel>
+        <content src="Text/Section0002_0092.xhtml#sigil_toc_id_224"/>
+      </navPoint>
+      <navPoint id="navPoint-247" playOrder="247">
+        <navLabel>
+          <text>动物的孩子能不能一出生就见到双亲</text>
+        </navLabel>
+        <content src="Text/Section0002_0093.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-248" playOrder="248">
+        <navLabel>
+          <text>脊椎动物中雌性长得快还是雄性长得快</text>
+        </navLabel>
+        <content src="Text/Section0002_0093.xhtml#sigil_toc_id_225"/>
+      </navPoint>
+      <navPoint id="navPoint-249" playOrder="249">
+        <navLabel>
+          <text>动物为什么对不同猎物会采用不同的猎杀策略</text>
+        </navLabel>
+        <content src="Text/Section0002_0094.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-250" playOrder="250">
+        <navLabel>
+          <text>动物是不是都要咬死猎物</text>
+        </navLabel>
+        <content src="Text/Section0002_0094.xhtml#sigil_toc_id_226"/>
+      </navPoint>
+      <navPoint id="navPoint-251" playOrder="251">
+        <navLabel>
+          <text>动物中有强盗吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0095.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-252" playOrder="252">
+        <navLabel>
+          <text>为什么动物也要行骗</text>
+        </navLabel>
+        <content src="Text/Section0002_0095.xhtml#sigil_toc_id_227"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

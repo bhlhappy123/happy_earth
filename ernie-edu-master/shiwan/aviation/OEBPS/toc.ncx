@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:8eae6154-044d-4eda-8512-7b7528b4da28" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>十万个为什么（第六版）精装套装-航空与航天</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>扉页</text>
+      </navLabel>
+      <content src="Text/feiye.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>版权信息</text>
+      </navLabel>
+      <content src="Text/bq.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>序 言</text>
+      </navLabel>
+      <content src="Text/xy.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="Text/TOC.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>导言</text>
+      </navLabel>
+      <content src="Text/Section0002_0001.xhtml"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>为什么要开展航空航天活动</text>
+        </navLabel>
+        <content src="Text/Section0002_0001.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>航空技术</text>
+      </navLabel>
+      <content src="Text/Section0002_0002.xhtml"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>乘坐热气球能环游世界吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0002.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>飞艇还能东山再起吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0002.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>谁是第一个开飞机上天的人</text>
+        </navLabel>
+        <content src="Text/Section0002_0003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>为什么飞机不像鸟儿一样扇翅飞行</text>
+        </navLabel>
+        <content src="Text/Section0002_0003.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>纸飞机怎么能飞得又高又远</text>
+        </navLabel>
+        <content src="Text/Section0002_0003.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>为什么飞机能飞上天</text>
+        </navLabel>
+        <content src="Text/Section0002_0004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>为什么有些“飞机”能贴着水面飞行</text>
+        </navLabel>
+        <content src="Text/Section0002_0004.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>真的有人造出过飞碟吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0004.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>飞机是怎么控制方向的</text>
+        </navLabel>
+        <content src="Text/Section0002_0005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>为什么飞行服没有纽扣</text>
+        </navLabel>
+        <content src="Text/Section0002_0005.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>飞机的失速是怎么回事</text>
+        </navLabel>
+        <content src="Text/Section0002_0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>为什么飞机不能做太急的转弯</text>
+        </navLabel>
+        <content src="Text/Section0002_0006.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>为什么有的滑翔机要驾驶员躺着驾驶</text>
+        </navLabel>
+        <content src="Text/Section0002_0006.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>为什么看外形就可以猜到飞机的用途和性能</text>
+        </navLabel>
+        <content src="Text/Section0002_0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>机翼的面积越大越好吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0007.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>为什么机翼要由很多块板组成</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>为什么老式飞机有好几对机翼，而现在的战斗机只有一对</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0001.xhtml#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>为什么有的飞机机翼两端要伸出两只“小手”</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0001.xhtml#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>为什么有的机翼在机身上方，有的机翼在机身下方</text>
+        </navLabel>
+        <content src="Text/Section0002_0008_0001.xhtml#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>为什么飞机的“嘴”长得不一样</text>
+        </navLabel>
+        <content src="Text/Section0002_0009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>飞机的发动机装在哪里</text>
+        </navLabel>
+        <content src="Text/Section0002_0009.xhtml#sigil_toc_id_44"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>为什么飞行时飞机的“翅膀”会变形和抖动</text>
+        </navLabel>
+        <content src="Text/Section0002_0009.xhtml#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>为什么大部分飞机的“翅膀”要向上翘</text>
+        </navLabel>
+        <content src="Text/Section0002_0010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>为什么有些飞机必须由计算机辅助才能操控</text>
+        </navLabel>
+        <content src="Text/Section0002_0010.xhtml#sigil_toc_id_56"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>为什么飞机可以自动驾驶</text>
+        </navLabel>
+        <content src="Text/Section0002_0010.xhtml#sigil_toc_id_68"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>为了适应超声速飞行，飞机进行了怎样的“变身”</text>
+        </navLabel>
+        <content src="Text/Section0002_0011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>为什么说发动机是飞机的“心脏”</text>
+        </navLabel>
+        <content src="Text/Section0002_0012.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>为什么有的喷气飞机也有螺旋桨</text>
+        </navLabel>
+        <content src="Text/Section0002_0012.xhtml#sigil_toc_id_74"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>飞行员是怎么知道飞机所处的高度和速度的</text>
+        </navLabel>
+        <content src="Text/Section0002_0013.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>为什么飞机起落架也有那么多讲究</text>
+        </navLabel>
+        <content src="Text/Section0002_0013.xhtml#sigil_toc_id_80"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>靠旋翼上天的都是直升机吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0014.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>为什么说直升机的旋翼和电扇叶片不一样</text>
+        </navLabel>
+        <content src="Text/Section0002_0014.xhtml#sigil_toc_id_82"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>为什么直升机可以横着飞，也可以后退飞行</text>
+        </navLabel>
+        <content src="Text/Section0002_0014.xhtml#sigil_toc_id_94"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>为什么直升机旋翼的叶片在停着的时候总是耷拉着</text>
+        </navLabel>
+        <content src="Text/Section0002_0014.xhtml#sigil_toc_id_102"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>为什么直升机的尾巴上要装一个“风扇”</text>
+        </navLabel>
+        <content src="Text/Section0002_0015.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>为什么直升机飞行员要用脚镫来控制转向</text>
+        </navLabel>
+        <content src="Text/Section0002_0015.xhtml#sigil_toc_id_104"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>为什么直升机飞不快</text>
+        </navLabel>
+        <content src="Text/Section0002_0015.xhtml#sigil_toc_id_119"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>为什么直升机飞行时不收起落架</text>
+        </navLabel>
+        <content src="Text/Section0002_0016.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>为什么有的直升机身上有一对“小翅膀”</text>
+        </navLabel>
+        <content src="Text/Section0002_0016.xhtml#sigil_toc_id_121"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>为什么有些“直升机”的旋翼不动也能飞</text>
+        </navLabel>
+        <content src="Text/Section0002_0016.xhtml#sigil_toc_id_127"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>有没有可以垂直起降的飞机</text>
+        </navLabel>
+        <content src="Text/Section0002_0017.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>为什么不少直升机都有两台发动机</text>
+        </navLabel>
+        <content src="Text/Section0002_0017.xhtml#sigil_toc_id_155"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>空中加油时，直升机的旋翼不会打到加油管吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0017.xhtml#sigil_toc_id_156"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>“背包”也能把人带上天吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0018.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>为什么降落伞能精确地把人和货物送到目标点</text>
+        </navLabel>
+        <content src="Text/Section0002_0018.xhtml#sigil_toc_id_157"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>飞机可以不落地吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0019.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>为什么同一航线往返飞行时间会不一样</text>
+        </navLabel>
+        <content src="Text/Section0002_0020.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>为什么机场要有专用的雷达</text>
+        </navLabel>
+        <content src="Text/Section0002_0020.xhtml#sigil_toc_id_158"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>坐飞机也会有高原反应吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0020.xhtml#sigil_toc_id_159"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>为什么新型飞机上天前要进行风洞试验</text>
+        </navLabel>
+        <content src="Text/Section0002_0021.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>为什么工程师要把好好的飞机弄坏</text>
+        </navLabel>
+        <content src="Text/Section0002_0021.xhtml#sigil_toc_id_160"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>为什么试飞员要故意制造“事故”</text>
+        </navLabel>
+        <content src="Text/Section0002_0021.xhtml#sigil_toc_id_161"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>运载火箭</text>
+      </navLabel>
+      <content src="Text/Section0002_0022.xhtml"/>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>从哪里开始算是太空</text>
+        </navLabel>
+        <content src="Text/Section0002_0022.xhtml#sigil_toc_id_162"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>为什么直到20世纪人类才进入太空</text>
+        </navLabel>
+        <content src="Text/Section0002_0022.xhtml#sigil_toc_id_163"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>现代火箭是如何发展起来的</text>
+        </navLabel>
+        <content src="Text/Section0002_0023.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>为什么要采用多级火箭</text>
+        </navLabel>
+        <content src="Text/Section0002_0023.xhtml#sigil_toc_id_164"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>为什么火箭都是圆筒状的</text>
+        </navLabel>
+        <content src="Text/Section0002_0024.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>为什么古代火箭飞不远</text>
+        </navLabel>
+        <content src="Text/Section0002_0024.xhtml#sigil_toc_id_165"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>为什么火箭要垂直起飞</text>
+        </navLabel>
+        <content src="Text/Section0002_0024.xhtml#sigil_toc_id_166"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>“神舟”飞船发射时航天员位于火箭的什么部位</text>
+        </navLabel>
+        <content src="Text/Section0002_0025.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>为什么载人火箭顶部有一个尖尖的塔</text>
+        </navLabel>
+        <content src="Text/Section0002_0025.xhtml#sigil_toc_id_167"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>为什么火箭不怕热</text>
+        </navLabel>
+        <content src="Text/Section0002_0025.xhtml#sigil_toc_id_168"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>为什么火箭会有这么大的“力气”</text>
+        </navLabel>
+        <content src="Text/Section0002_0026.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>火箭都采用哪些推进剂</text>
+        </navLabel>
+        <content src="Text/Section0002_0027.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>固体火箭和液体火箭哪一种更好</text>
+        </navLabel>
+        <content src="Text/Section0002_0027.xhtml#sigil_toc_id_169"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>为什么火箭发射时会往下掉东西</text>
+        </navLabel>
+        <content src="Text/Section0002_0028.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>为什么火箭发射时会形成大量白色烟雾</text>
+        </navLabel>
+        <content src="Text/Section0002_0028.xhtml#sigil_toc_id_170"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>为什么火箭发射怕雷雨和刮风</text>
+        </navLabel>
+        <content src="Text/Section0002_0028.xhtml#sigil_toc_id_171"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>火箭为什么能“指哪打哪”</text>
+        </navLabel>
+        <content src="Text/Section0002_0029.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>为什么火箭上天后不会偏离弹道</text>
+        </navLabel>
+        <content src="Text/Section0002_0029.xhtml#sigil_toc_id_172"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>火箭上天后怎么跟它联系</text>
+        </navLabel>
+        <content src="Text/Section0002_0030.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>火箭发射窗口是怎么确定的</text>
+        </navLabel>
+        <content src="Text/Section0002_0030.xhtml#sigil_toc_id_173"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>哪一种火箭威力最大</text>
+        </navLabel>
+        <content src="Text/Section0002_0031.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>火箭发射后下次还能用吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0031.xhtml#sigil_toc_id_174"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>为什么研制火箭既要有总设计师又要有总指挥</text>
+        </navLabel>
+        <content src="Text/Section0002_0031.xhtml#sigil_toc_id_175"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>世界论箭，中国“长征”火箭实力如何</text>
+        </navLabel>
+        <content src="Text/Section0002_0032.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>怎样才能让航天器飞得更远</text>
+        </navLabel>
+        <content src="Text/Section0002_0032_0001.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>人造卫星</text>
+      </navLabel>
+      <content src="Text/Section0002_0033.xhtml"/>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>为什么需要造卫星</text>
+        </navLabel>
+        <content src="Text/Section0002_0033.xhtml#sigil_toc_id_177"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>中国的第一颗人造卫星是什么时候发射的</text>
+        </navLabel>
+        <content src="Text/Section0002_0033.xhtml#sigil_toc_id_178"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>为什么人造卫星能按预定的轨道运行</text>
+        </navLabel>
+        <content src="Text/Section0002_0034.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>为什么有的人造卫星会掉下来</text>
+        </navLabel>
+        <content src="Text/Section0002_0034.xhtml#sigil_toc_id_179"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>为什么人造卫星的轨道有各种形状</text>
+        </navLabel>
+        <content src="Text/Section0002_0035.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>卫星升空之后多久才算进入最终的工作轨道</text>
+        </navLabel>
+        <content src="Text/Section0002_0035.xhtml#sigil_toc_id_180"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>卫星通信是如何实现的</text>
+        </navLabel>
+        <content src="Text/Section0002_0036.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>什么人常用卫星电话</text>
+        </navLabel>
+        <content src="Text/Section0002_0036.xhtml#sigil_toc_id_181"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>为什么支个“锅”，就能看到丰富多彩的电视节目</text>
+        </navLabel>
+        <content src="Text/Section0002_0036.xhtml#sigil_toc_id_182"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>为什么导航卫星能够指路</text>
+        </navLabel>
+        <content src="Text/Section0002_0037.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>为什么中国要建立自己的“北斗”卫星导航系统</text>
+        </navLabel>
+        <content src="Text/Section0002_0037.xhtml#sigil_toc_id_183"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>为什么人造卫星能够看清地面上的人和汽车</text>
+        </navLabel>
+        <content src="Text/Section0002_0038.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>为什么有的人造卫星要返回地球</text>
+        </navLabel>
+        <content src="Text/Section0002_0038.xhtml#sigil_toc_id_184"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>人造卫星上能做什么实验</text>
+        </navLabel>
+        <content src="Text/Section0002_0039.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>人造卫星如何测地球重力场</text>
+        </navLabel>
+        <content src="Text/Section0002_0039.xhtml#sigil_toc_id_185"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>为什么人造卫星在太空还能听从地面的指挥</text>
+        </navLabel>
+        <content src="Text/Section0002_0040.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>为什么人造卫星在太空不会随意翻滚</text>
+        </navLabel>
+        <content src="Text/Section0002_0040.xhtml#sigil_toc_id_186"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>人造卫星在太空会不会被冻“感冒”</text>
+        </navLabel>
+        <content src="Text/Section0002_0041.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>人造卫星“生病”了怎么办</text>
+        </navLabel>
+        <content src="Text/Section0002_0041.xhtml#sigil_toc_id_187"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>人造卫星上主要采用什么电源</text>
+        </navLabel>
+        <content src="Text/Section0002_0042.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>人造卫星上有化学电池吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0042.xhtml#sigil_toc_id_188"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>为什么目前人造卫星很少使用核电源</text>
+        </navLabel>
+        <content src="Text/Section0002_0042.xhtml#sigil_toc_id_189"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>航天器的研制过程是怎样的</text>
+        </navLabel>
+        <content src="Text/Section0002_0043.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>为什么航天器在上天前要进行环境模拟试验</text>
+        </navLabel>
+        <content src="Text/Section0002_0043.xhtml#sigil_toc_id_190"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>航天器总装时对厂房有什么特殊要求</text>
+        </navLabel>
+        <content src="Text/Section0002_0043.xhtml#sigil_toc_id_191"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>为什么太空中存在垃圾</text>
+        </navLabel>
+        <content src="Text/Section0002_0044.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>太空垃圾有什么危害</text>
+        </navLabel>
+        <content src="Text/Section0002_0044.xhtml#sigil_toc_id_192"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>怎样发现太空垃圾</text>
+        </navLabel>
+        <content src="Text/Section0002_0045.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>如何应对微小太空垃圾的威胁</text>
+        </navLabel>
+        <content src="Text/Section0002_0045.xhtml#sigil_toc_id_193"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>如何清理太空垃圾</text>
+        </navLabel>
+        <content src="Text/Section0002_0045.xhtml#sigil_toc_id_194"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-117" playOrder="117">
+      <navLabel>
+        <text>载人航天器</text>
+      </navLabel>
+      <content src="Text/Section0002_0046.xhtml"/>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>苏联的“航天之父”是谁</text>
+        </navLabel>
+        <content src="Text/Section0002_0046.xhtml#sigil_toc_id_195"/>
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>第一位航天员是怎么飞上太空的</text>
+        </navLabel>
+        <content src="Text/Section0002_0046.xhtml#sigil_toc_id_196"/>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>为什么飞船要在太空进行交会对接</text>
+        </navLabel>
+        <content src="Text/Section0002_0047.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>为什么飞船能够从太空安全回家</text>
+        </navLabel>
+        <content src="Text/Section0002_0048.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>在飞船上遇到紧急情况如何逃生</text>
+        </navLabel>
+        <content src="Text/Section0002_0049.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>地面控制中心怎样用无线电波控制飞船</text>
+        </navLabel>
+        <content src="Text/Section0002_0050.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>为什么要建造航天飞机</text>
+        </navLabel>
+        <content src="Text/Section0002_0051.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>为什么航天飞机要垂直发射</text>
+        </navLabel>
+        <content src="Text/Section0002_0052.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>为什么航天飞机被淘汰了</text>
+        </navLabel>
+        <content src="Text/Section0002_0052.xhtml#sigil_toc_id_197"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>为什么要建设空间站</text>
+        </navLabel>
+        <content src="Text/Section0002_0053.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>空间站怎么进行补给</text>
+        </navLabel>
+        <content src="Text/Section0002_0053.xhtml#sigil_toc_id_198"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>为什么“国际空间站”要多个国家联合建设</text>
+        </navLabel>
+        <content src="Text/Section0002_0054.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>为什么中国要建设自己的空间站</text>
+        </navLabel>
+        <content src="Text/Section0002_0054.xhtml#sigil_toc_id_199"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>为什么美国商业公司也能发射飞船</text>
+        </navLabel>
+        <content src="Text/Section0002_0054_0001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>为什么太空旅游的船票那么贵</text>
+        </navLabel>
+        <content src="Text/Section0002_0054_0001.xhtml#sigil_toc_id_201"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>未来我们可以坐电梯上太空吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0055.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>怎样保证太空电梯的稳定</text>
+        </navLabel>
+        <content src="Text/Section0002_0055.xhtml#sigil_toc_id_202"/>
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>太空电梯的前景如何</text>
+        </navLabel>
+        <content src="Text/Section0002_0055.xhtml#sigil_toc_id_203"/>
+      </navPoint>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>为什么很多民用技术来自航天工程</text>
+        </navLabel>
+        <content src="Text/Section0002_0056.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>哪些民用产品上可以看到航天技术</text>
+        </navLabel>
+        <content src="Text/Section0002_0056.xhtml#sigil_toc_id_204"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>航天产品都是最新最好的产品吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0056.xhtml#sigil_toc_id_205"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-139" playOrder="139">
+      <navLabel>
+        <text>航天员</text>
+      </navLabel>
+      <content src="Text/Section0002_0057.xhtml"/>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>航天员的门槛有多高</text>
+        </navLabel>
+        <content src="Text/Section0002_0057.xhtml#sigil_toc_id_206"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>航天员考试有几门课</text>
+        </navLabel>
+        <content src="Text/Section0002_0058.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>为什么航天员的太空行走训练要在水下进行</text>
+        </navLabel>
+        <content src="Text/Section0002_0058.xhtml#sigil_toc_id_207"/>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>什么是航天员最发怵的训练</text>
+        </navLabel>
+        <content src="Text/Section0002_0058.xhtml#sigil_toc_id_208"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>航天员上班时都做哪些工作</text>
+        </navLabel>
+        <content src="Text/Section0002_0059.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>航天员在太空怎样吃饭</text>
+        </navLabel>
+        <content src="Text/Section0002_0059.xhtml#sigil_toc_id_209"/>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>航天员在太空怎样喝水</text>
+        </navLabel>
+        <content src="Text/Section0002_0060.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>航天员在太空如何处理个人卫生</text>
+        </navLabel>
+        <content src="Text/Section0002_0060.xhtml#sigil_toc_id_210"/>
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>航天员在太空会做梦吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0060.xhtml#sigil_toc_id_211"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>航天员在太空会生病吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0061.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>为什么航天员在太空要每天锻炼身体</text>
+        </navLabel>
+        <content src="Text/Section0002_0061.xhtml#sigil_toc_id_212"/>
+      </navPoint>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>为什么航天员在飞行前和返回后要进行隔离</text>
+        </navLabel>
+        <content src="Text/Section0002_0061.xhtml#sigil_toc_id_213"/>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>为什么航天员要穿那么臃肿的航天服</text>
+        </navLabel>
+        <content src="Text/Section0002_0062.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>航天服怎么穿</text>
+        </navLabel>
+        <content src="Text/Section0002_0062.xhtml#sigil_toc_id_214"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>为什么航天员要到舱外工作</text>
+        </navLabel>
+        <content src="Text/Section0002_0063.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>航天员在太空如何“行走”</text>
+        </navLabel>
+        <content src="Text/Section0002_0063.xhtml#sigil_toc_id_216"/>
+      </navPoint>
+      <navPoint id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>在太空发生火灾怎么办</text>
+        </navLabel>
+        <content src="Text/Section0002_0064.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>航天史上多少位航天员牺牲了</text>
+        </navLabel>
+        <content src="Text/Section0002_0064.xhtml#sigil_toc_id_218"/>
+      </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>航天员在太空中能看见长城吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0065.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-159" playOrder="159">
+      <navLabel>
+        <text>月球探测</text>
+      </navLabel>
+      <content src="Text/Section0002_0066.xhtml"/>
+      <navPoint id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>为什么要探测月球</text>
+        </navLabel>
+        <content src="Text/Section0002_0066.xhtml#sigil_toc_id_220"/>
+      </navPoint>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>为什么月球上的地名与地球上的地名如出一辙</text>
+        </navLabel>
+        <content src="Text/Section0002_0066.xhtml#sigil_toc_id_221"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>人类探测月球走过了怎样的历程</text>
+        </navLabel>
+        <content src="Text/Section0002_0066.xhtml#sigil_toc_id_222"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>为什么月球探测的方式多种多样</text>
+        </navLabel>
+        <content src="Text/Section0002_0067.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>无人月球探测器有哪些代表作</text>
+        </navLabel>
+        <content src="Text/Section0002_0067.xhtml#sigil_toc_id_223"/>
+      </navPoint>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>为什么先有月面软着陆后有载人登月</text>
+        </navLabel>
+        <content src="Text/Section0002_0068.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>为什么月球车的设计有许多特殊要求</text>
+        </navLabel>
+        <content src="Text/Section0002_0068.xhtml#sigil_toc_id_224"/>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>为什么说阿波罗登月是人类历史上的伟大创举</text>
+        </navLabel>
+        <content src="Text/Section0002_0069.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>为什么苏联人没能登上月球</text>
+        </navLabel>
+        <content src="Text/Section0002_0069.xhtml#sigil_toc_id_225"/>
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>为什么阿波罗计划不是骗局</text>
+        </navLabel>
+        <content src="Text/Section0002_0070.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>中国探月工程的具体计划是什么</text>
+        </navLabel>
+        <content src="Text/Section0002_0071.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>为什么“嫦娥”探测器要拍摄全月图</text>
+        </navLabel>
+        <content src="Text/Section0002_0071.xhtml#sigil_toc_id_226"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>“嫦娥一号”和“嫦娥二号”现在何处</text>
+        </navLabel>
+        <content src="Text/Section0002_0071.xhtml#sigil_toc_id_228"/>
+      </navPoint>
+      <navPoint id="navPoint-173" playOrder="173">
+        <navLabel>
+          <text>为什么“嫦娥”远在天边仍可与地面联络</text>
+        </navLabel>
+        <content src="Text/Section0002_0072.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>“嫦娥”探月取得了哪些科学成果</text>
+        </navLabel>
+        <content src="Text/Section0002_0072.xhtml#sigil_toc_id_230"/>
+      </navPoint>
+      <navPoint id="navPoint-175" playOrder="175">
+        <navLabel>
+          <text>为什么21世纪“探月俱乐部”那么热闹</text>
+        </navLabel>
+        <content src="Text/Section0002_0073.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-176" playOrder="176">
+        <navLabel>
+          <text>月球基地何时建成</text>
+        </navLabel>
+        <content src="Text/Section0002_0073.xhtml#sigil_toc_id_231"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-177" playOrder="177">
+      <navLabel>
+        <text>深空探测</text>
+      </navLabel>
+      <content src="Text/Section0002_0074.xhtml"/>
+      <navPoint id="navPoint-178" playOrder="178">
+        <navLabel>
+          <text>火星探测取得了哪些成果</text>
+        </navLabel>
+        <content src="Text/Section0002_0074.xhtml#sigil_toc_id_232"/>
+      </navPoint>
+      <navPoint id="navPoint-179" playOrder="179">
+        <navLabel>
+          <text>是谁在开火星车</text>
+        </navLabel>
+        <content src="Text/Section0002_0074.xhtml#sigil_toc_id_233"/>
+      </navPoint>
+      <navPoint id="navPoint-180" playOrder="180">
+        <navLabel>
+          <text>为什么要模拟飞往火星</text>
+        </navLabel>
+        <content src="Text/Section0002_0075.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-181" playOrder="181">
+        <navLabel>
+          <text>人类什么时候能够登上火星</text>
+        </navLabel>
+        <content src="Text/Section0002_0075.xhtml#sigil_toc_id_234"/>
+      </navPoint>
+      <navPoint id="navPoint-182" playOrder="182">
+        <navLabel>
+          <text>为什么探测器去水星那么难</text>
+        </navLabel>
+        <content src="Text/Section0002_0075_0001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>金星的“迷雾”是如何揭开的</text>
+        </navLabel>
+        <content src="Text/Section0002_0075_0001.xhtml#sigil_toc_id_238"/>
+      </navPoint>
+      <navPoint id="navPoint-184" playOrder="184">
+        <navLabel>
+          <text>有哪些探测器拜访过巨行星</text>
+        </navLabel>
+        <content src="Text/Section0002_0076.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-185" playOrder="185">
+        <navLabel>
+          <text>人类今后还会继续探测巨行星吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0076.xhtml#sigil_toc_id_239"/>
+      </navPoint>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>人类能阻止小行星撞击地球吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0077.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-187" playOrder="187">
+        <navLabel>
+          <text>人类能利用小行星上的资源吗</text>
+        </navLabel>
+        <content src="Text/Section0002_0077.xhtml#sigil_toc_id_240"/>
+      </navPoint>
+      <navPoint id="navPoint-188" playOrder="188">
+        <navLabel>
+          <text>怎样飞出太阳系</text>
+        </navLabel>
+        <content src="Text/Section0002_0078.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
